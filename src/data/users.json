@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user_001",
+    "email": "john@example.com",
+    "password": "123456",
+    "username": "john_doe",
+    "displayName": "John Doe",
+    "bio": "📸 Travel • Coffee • Adventure",
+    "avatar": "/images/users/john.jpg",
+    "verified": true,
+    "private": false,
+    "website": "https://johndoe.dev",
+    "followers": 18234,
+    "following": 524,
+    "posts": 28,
+    "viewer": {
+      "following": true,
+      "requested": false,
+      "blocked": false
+    }
+  }
+]

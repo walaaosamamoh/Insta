@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "post_001",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Beautiful sunset over the city 🌅",
+    "location": "Dubai, UAE",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post001_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post001_2.jpg"
+      }
+    ],
+    "hashtags": ["sunset", "travel", "photography"],
+    "stats": {
+      "likes": 45213,
+      "comments": 512,
+      "shares": 391,
+      "reposts": 45,
+      "bookmarks": 2847,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-07-01T10:30:00Z"
+  },
+  {
+    "id": "post_002",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "Morning walk in the forest 🌿",
+    "location": "Vancouver, Canada",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post002_1.jpg"
+      }
+    ],
+    "hashtags": ["nature", "morning", "peace"],
+    "stats": {
+      "likes": 1842,
+      "comments": 94,
+      "shares": 27,
+      "reposts": 8,
+      "bookmarks": 186,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-30T08:10:00Z"
+  },
+  {
+    "id": "post_003",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Never skip leg day 💪",
+    "location": "Los Angeles, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post003_1.jpg"
+      }
+    ],
+    "hashtags": ["fitness", "gym", "motivation"],
+    "stats": {
+      "likes": 5128,
+      "comments": 201,
+      "shares": 82,
+      "reposts": 16,
+      "bookmarks": 613,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-29T17:22:00Z"
+  },
+  {
+    "id": "post_004",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Brunch with a view 🍳",
+    "location": "Paris, France",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post004_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post004_2.jpg"
+      }
+    ],
+    "hashtags": ["food", "travel", "brunch"],
+    "stats": {
+      "likes": 82145,
+      "comments": 1824,
+      "shares": 532,
+      "reposts": 66,
+      "bookmarks": 6140,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-28T11:45:00Z"
+  },
+  {
+    "id": "post_005",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Coffee first, everything else later ☕",
+    "location": "London, UK",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post005_1.jpg"
+      }
+    ],
+    "hashtags": ["coffee", "lifestyle"],
+    "stats": {
+      "likes": 152143,
+      "comments": 2834,
+      "shares": 942,
+      "reposts": 118,
+      "bookmarks": 10442,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-27T09:05:00Z"
+  },
+  {
+    "id": "post_006",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Late night coding session 💻",
+    "location": "Singapore",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post006_1.jpg"
+      }
+    ],
+    "hashtags": ["developer", "coding", "javascript"],
+    "stats": {
+      "likes": 2934,
+      "comments": 147,
+      "shares": 64,
+      "reposts": 5,
+      "bookmarks": 480,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-26T22:10:00Z"
+  },
+  {
+    "id": "post_007",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "caption": "Weekend road trip 🚗",
+    "location": "California, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post007_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post007_2.jpg"
+      }
+    ],
+    "hashtags": ["roadtrip", "weekend"],
+    "stats": {
+      "likes": 843,
+      "comments": 36,
+      "shares": 12,
+      "reposts": 1,
+      "bookmarks": 44,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-25T15:20:00Z"
+  },
+  {
+    "id": "post_008",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Today's outfit ✨",
+    "location": "Milan, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post008_1.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "style"],
+    "stats": {
+      "likes": 6342,
+      "comments": 274,
+      "shares": 91,
+      "reposts": 7,
+      "bookmarks": 510,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-24T13:18:00Z"
+  },
+  {
+    "id": "post_009",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Golden hour is the best hour 📷",
+    "location": "Iceland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post009_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post009_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post009_3.jpg"
+      }
+    ],
+    "hashtags": ["photography", "landscape", "nature"],
+    "stats": {
+      "likes": 14392,
+      "comments": 522,
+      "shares": 183,
+      "reposts": 21,
+      "bookmarks": 1481,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-23T19:44:00Z"
+  },
+  {
+    "id": "post_010",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "New makeup tutorial is live 💄",
+    "location": "Seoul, South Korea",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post010_1.jpg"
+      }
+    ],
+    "hashtags": ["beauty", "makeup", "tutorial"],
+    "stats": {
+      "likes": 91324,
+      "comments": 3122,
+      "shares": 1082,
+      "reposts": 95,
+      "bookmarks": 9134,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-22T12:00:00Z"
+  },
+  {
+    "id": "post_011",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Lost in the mountains 🏔️",
+    "location": "Swiss Alps, Switzerland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post011_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post011_2.jpg"
+      }
+    ],
+    "hashtags": ["travel", "mountains", "adventure"],
+    "stats": {
+      "likes": 38145,
+      "comments": 487,
+      "shares": 263,
+      "reposts": 31,
+      "bookmarks": 2140,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-21T09:40:00Z"
+  },
+  {
+    "id": "post_012",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "Flowers are blooming everywhere 🌸",
+    "location": "Kyoto, Japan",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post012_1.jpg"
+      }
+    ],
+    "hashtags": ["flowers", "spring", "nature"],
+    "stats": {
+      "likes": 2342,
+      "comments": 91,
+      "shares": 18,
+      "reposts": 2,
+      "bookmarks": 172,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-20T14:15:00Z"
+  },
+  {
+    "id": "post_013",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Consistency beats motivation every time 💯",
+    "location": "New York, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post013_1.jpg"
+      }
+    ],
+    "hashtags": ["fitness", "motivation", "workout"],
+    "stats": {
+      "likes": 6184,
+      "comments": 244,
+      "shares": 98,
+      "reposts": 13,
+      "bookmarks": 732,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-20T08:30:00Z"
+  },
+  {
+    "id": "post_014",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Fresh pasta made from scratch 🍝",
+    "location": "Rome, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post014_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post014_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post014_3.jpg"
+      }
+    ],
+    "hashtags": ["food", "italy", "pasta"],
+    "stats": {
+      "likes": 94628,
+      "comments": 2317,
+      "shares": 714,
+      "reposts": 84,
+      "bookmarks": 7815,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-19T18:05:00Z"
+  },
+  {
+    "id": "post_015",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Rainy afternoons and a good book 📚☕",
+    "location": "Edinburgh, Scotland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post015_1.jpg"
+      }
+    ],
+    "hashtags": ["books", "coffee", "cozy"],
+    "stats": {
+      "likes": 127483,
+      "comments": 2945,
+      "shares": 851,
+      "reposts": 102,
+      "bookmarks": 11452,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-19T10:20:00Z"
+  },
+  {
+    "id": "post_016",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Building something exciting with React ⚛️",
+    "location": "Singapore",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post016_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post016_2.jpg"
+      }
+    ],
+    "hashtags": ["react", "coding", "webdev"],
+    "stats": {
+      "likes": 3458,
+      "comments": 163,
+      "shares": 54,
+      "reposts": 9,
+      "bookmarks": 692,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-18T21:10:00Z"
+  },
+  {
+    "id": "post_017",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "caption": "Nothing beats a beach sunset 🌊",
+    "location": "Malibu, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post017_1.jpg"
+      }
+    ],
+    "hashtags": ["beach", "sunset", "summer"],
+    "stats": {
+      "likes": 1274,
+      "comments": 48,
+      "shares": 19,
+      "reposts": 3,
+      "bookmarks": 105,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-18T18:45:00Z"
+  },
+  {
+    "id": "post_018",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Minimalist style never goes out of fashion 🤍",
+    "location": "Copenhagen, Denmark",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post018_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post018_2.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "minimal", "style"],
+    "stats": {
+      "likes": 7421,
+      "comments": 316,
+      "shares": 97,
+      "reposts": 12,
+      "bookmarks": 941,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-17T15:30:00Z"
+  },
+  {
+    "id": "post_019",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Chasing waterfalls 📷",
+    "location": "Iguazu Falls, Argentina",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post019_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post019_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post019_3.jpg"
+      }
+    ],
+    "hashtags": ["waterfall", "nature", "photography"],
+    "stats": {
+      "likes": 18652,
+      "comments": 641,
+      "shares": 228,
+      "reposts": 34,
+      "bookmarks": 2138,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-17T09:50:00Z"
+  },
+  {
+    "id": "post_020",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "Soft glam makeup look for today ✨",
+    "location": "Seoul, South Korea",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post020_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post020_2.jpg"
+      }
+    ],
+    "hashtags": ["beauty", "makeup", "glam"],
+    "stats": {
+      "likes": 104376,
+      "comments": 3524,
+      "shares": 1206,
+      "reposts": 137,
+      "bookmarks": 10284,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-16T11:15:00Z"
+  },
+  {
+    "id": "post_021",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Every meal tells a story 🍣",
+    "location": "Tokyo, Japan",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post021_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post021_2.jpg"
+      }
+    ],
+    "hashtags": ["food", "japan", "travel"],
+    "stats": {
+      "likes": 91234,
+      "comments": 2018,
+      "shares": 684,
+      "reposts": 76,
+      "bookmarks": 7215,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-15T19:20:00Z"
+  },
+  {
+    "id": "post_022",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Found this hidden beach today 🌊",
+    "location": "Bali, Indonesia",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post022_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post022_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post022_3.jpg"
+      }
+    ],
+    "hashtags": ["beach", "bali", "travel"],
+    "stats": {
+      "likes": 48652,
+      "comments": 634,
+      "shares": 352,
+      "reposts": 41,
+      "bookmarks": 3278,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-15T08:45:00Z"
+  },
+  {
+    "id": "post_023",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "Skincare before makeup 💕",
+    "location": "Busan, South Korea",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post023_1.jpg"
+      }
+    ],
+    "hashtags": ["skincare", "beauty", "routine"],
+    "stats": {
+      "likes": 118642,
+      "comments": 3821,
+      "shares": 1305,
+      "reposts": 141,
+      "bookmarks": 12106,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-14T17:10:00Z"
+  },
+  {
+    "id": "post_024",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Dark mode all day 🌙",
+    "location": "Singapore",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post024_1.jpg"
+      }
+    ],
+    "hashtags": ["developer", "setup", "coding"],
+    "stats": {
+      "likes": 4123,
+      "comments": 185,
+      "shares": 67,
+      "reposts": 11,
+      "bookmarks": 721,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-14T10:35:00Z"
+  },
+  {
+    "id": "post_025",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "The stars looked unreal tonight ✨",
+    "location": "Atacama Desert, Chile",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post025_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post025_2.jpg"
+      }
+    ],
+    "hashtags": ["night", "stars", "photography"],
+    "stats": {
+      "likes": 22154,
+      "comments": 728,
+      "shares": 266,
+      "reposts": 29,
+      "bookmarks": 2589,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-13T22:15:00Z"
+  },
+  {
+    "id": "post_026",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "Fresh air and quiet mornings 🌲",
+    "location": "Banff, Canada",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post026_1.jpg"
+      }
+    ],
+    "hashtags": ["nature", "forest", "morning"],
+    "stats": {
+      "likes": 2863,
+      "comments": 116,
+      "shares": 32,
+      "reposts": 3,
+      "bookmarks": 204,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-13T07:20:00Z"
+  },
+  {
+    "id": "post_027",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Small progress is still progress 💪",
+    "location": "Chicago, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post027_1.jpg"
+      }
+    ],
+    "hashtags": ["gym", "fitness", "discipline"],
+    "stats": {
+      "likes": 6982,
+      "comments": 281,
+      "shares": 103,
+      "reposts": 17,
+      "bookmarks": 801,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-12T18:00:00Z"
+  },
+  {
+    "id": "post_028",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Neutral colors are my favorite 🤍",
+    "location": "Paris, France",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post028_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post028_2.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "ootd", "minimal"],
+    "stats": {
+      "likes": 8120,
+      "comments": 334,
+      "shares": 124,
+      "reposts": 15,
+      "bookmarks": 985,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-12T13:40:00Z"
+  },
+  {
+    "id": "post_029",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Sunday mornings ☕📖",
+    "location": "Oxford, UK",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post029_1.jpg"
+      }
+    ],
+    "hashtags": ["coffee", "books", "weekend"],
+    "stats": {
+      "likes": 134278,
+      "comments": 3158,
+      "shares": 974,
+      "reposts": 109,
+      "bookmarks": 12984,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-11T09:10:00Z"
+  },
+  {
+    "id": "post_030",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "caption": "City lights never get old 🌃",
+    "location": "New York, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post030_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post030_2.jpg"
+      }
+    ],
+    "hashtags": ["city", "night", "travel"],
+    "stats": {
+      "likes": 1683,
+      "comments": 57,
+      "shares": 21,
+      "reposts": 4,
+      "bookmarks": 129,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-10T20:30:00Z"
+  },
+  {
+    "id": "post_031",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Morning hike above the clouds ☁️",
+    "location": "Dolomites, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post031_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post031_2.jpg"
+      }
+    ],
+    "hashtags": ["hiking", "mountains", "travel"],
+    "stats": {
+      "likes": 41233,
+      "comments": 522,
+      "shares": 301,
+      "reposts": 37,
+      "bookmarks": 2489,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-09T07:45:00Z"
+  },
+  {
+    "id": "post_032",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "Found a quiet lake today 🌿",
+    "location": "Lake District, UK",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post032_1.jpg"
+      }
+    ],
+    "hashtags": ["nature", "lake", "peace"],
+    "stats": {
+      "likes": 3194,
+      "comments": 132,
+      "shares": 44,
+      "reposts": 6,
+      "bookmarks": 251,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-08T16:10:00Z"
+  },
+  {
+    "id": "post_033",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Stronger than yesterday 💪",
+    "location": "Berlin, Germany",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post033_1.jpg"
+      }
+    ],
+    "hashtags": ["fitness", "gym", "strength"],
+    "stats": {
+      "likes": 7421,
+      "comments": 301,
+      "shares": 110,
+      "reposts": 18,
+      "bookmarks": 842,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-08T09:00:00Z"
+  },
+  {
+    "id": "post_034",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Street food adventure 🍢",
+    "location": "Bangkok, Thailand",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post034_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post034_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post034_3.jpg"
+      }
+    ],
+    "hashtags": ["streetfood", "travel", "asia"],
+    "stats": {
+      "likes": 103842,
+      "comments": 2411,
+      "shares": 902,
+      "reposts": 91,
+      "bookmarks": 8452,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-07T13:25:00Z"
+  },
+  {
+    "id": "post_035",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Peaceful evening reading 📚",
+    "location": "London, UK",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post035_1.jpg"
+      }
+    ],
+    "hashtags": ["books", "reading", "calm"],
+    "stats": {
+      "likes": 142882,
+      "comments": 3244,
+      "shares": 1102,
+      "reposts": 121,
+      "bookmarks": 13422,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-06T18:50:00Z"
+  },
+  {
+    "id": "post_036",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Debugging late night issues 🐛",
+    "location": "Remote",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post036_1.jpg"
+      }
+    ],
+    "hashtags": ["coding", "debugging", "developer"],
+    "stats": {
+      "likes": 3892,
+      "comments": 174,
+      "shares": 59,
+      "reposts": 7,
+      "bookmarks": 611,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-06T01:20:00Z"
+  },
+  {
+    "id": "post_037",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "caption": "Trying out photography 📸",
+    "location": "San Francisco, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post037_1.jpg"
+      }
+    ],
+    "hashtags": ["photography", "learning", "hobby"],
+    "stats": {
+      "likes": 1832,
+      "comments": 61,
+      "shares": 22,
+      "reposts": 3,
+      "bookmarks": 144,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-05T14:10:00Z"
+  },
+  {
+    "id": "post_038",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Black and white mood 🤍🖤",
+    "location": "Vienna, Austria",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post038_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post038_2.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "minimal", "bw"],
+    "stats": {
+      "likes": 8642,
+      "comments": 361,
+      "shares": 129,
+      "reposts": 16,
+      "bookmarks": 1012,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-06-04T12:00:00Z"
+  },
+  {
+    "id": "post_039",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Desert roads and silence 🏜️",
+    "location": "Nevada, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post039_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post039_2.jpg"
+      }
+    ],
+    "hashtags": ["desert", "roadtrip", "photography"],
+    "stats": {
+      "likes": 20184,
+      "comments": 744,
+      "shares": 233,
+      "reposts": 28,
+      "bookmarks": 2241,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-03T17:30:00Z"
+  },
+  {
+    "id": "post_040",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "New summer glow routine ☀️",
+    "location": "Los Angeles, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post040_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post040_2.jpg"
+      }
+    ],
+    "hashtags": ["beauty", "summer", "glow"],
+    "stats": {
+      "likes": 112983,
+      "comments": 4012,
+      "shares": 1420,
+      "reposts": 152,
+      "bookmarks": 11834,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-02T11:30:00Z"
+  },
+  {
+    "id": "post_041",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Early morning flight vibes ✈️",
+    "location": "Istanbul, Turkey",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post041_1.jpg"
+      }
+    ],
+    "hashtags": ["travel", "airport", "wanderlust"],
+    "stats": {
+      "likes": 36211,
+      "comments": 418,
+      "shares": 211,
+      "reposts": 26,
+      "bookmarks": 1984,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-06-01T05:40:00Z"
+  },
+  {
+    "id": "post_042",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "Tiny waterfall discovery 💧",
+    "location": "Reykjavik, Iceland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post042_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post042_2.jpg"
+      }
+    ],
+    "hashtags": ["nature", "iceland", "waterfall"],
+    "stats": {
+      "likes": 4210,
+      "comments": 173,
+      "shares": 58,
+      "reposts": 7,
+      "bookmarks": 319,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-31T14:22:00Z"
+  },
+  {
+    "id": "post_043",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "No excuses. Just work. 💪",
+    "location": "Houston, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post043_1.jpg"
+      }
+    ],
+    "hashtags": ["gym", "discipline", "fitness"],
+    "stats": {
+      "likes": 8123,
+      "comments": 344,
+      "shares": 129,
+      "reposts": 19,
+      "bookmarks": 901,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-30T18:00:00Z"
+  },
+  {
+    "id": "post_044",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Café hopping in Europe ☕",
+    "location": "Amsterdam, Netherlands",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post044_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post044_2.jpg"
+      }
+    ],
+    "hashtags": ["coffee", "travel", "cafe"],
+    "stats": {
+      "likes": 88342,
+      "comments": 2011,
+      "shares": 744,
+      "reposts": 88,
+      "bookmarks": 7622,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-29T10:15:00Z"
+  },
+  {
+    "id": "post_045",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Quiet mornings hit different ☕",
+    "location": "Paris, France",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post045_1.jpg"
+      }
+    ],
+    "hashtags": ["coffee", "calm", "morning"],
+    "stats": {
+      "likes": 138442,
+      "comments": 3210,
+      "shares": 1098,
+      "reposts": 123,
+      "bookmarks": 13654,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-28T08:05:00Z"
+  },
+  {
+    "id": "post_046",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "API finally works 😭🔥",
+    "location": "Remote",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post046_1.jpg"
+      }
+    ],
+    "hashtags": ["coding", "devlife", "javascript"],
+    "stats": {
+      "likes": 5231,
+      "comments": 219,
+      "shares": 88,
+      "reposts": 10,
+      "bookmarks": 812,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-27T23:40:00Z"
+  },
+  {
+    "id": "post_047",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "caption": "Learning to cook 🍳",
+    "location": "Los Angeles, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post047_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post047_2.jpg"
+      }
+    ],
+    "hashtags": ["cooking", "food", "learning"],
+    "stats": {
+      "likes": 2194,
+      "comments": 83,
+      "shares": 29,
+      "reposts": 4,
+      "bookmarks": 201,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-26T12:30:00Z"
+  },
+  {
+    "id": "post_048",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Soft tones only 🤍",
+    "location": "Milan, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post048_1.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "minimal", "style"],
+    "stats": {
+      "likes": 9123,
+      "comments": 388,
+      "shares": 141,
+      "reposts": 17,
+      "bookmarks": 1104,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-25T15:10:00Z"
+  },
+  {
+    "id": "post_049",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Waves and silence 🌊",
+    "location": "Santorini, Greece",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post049_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post049_2.jpg"
+      }
+    ],
+    "hashtags": ["travel", "sea", "photography"],
+    "stats": {
+      "likes": 24123,
+      "comments": 812,
+      "shares": 301,
+      "reposts": 36,
+      "bookmarks": 2644,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-24T18:20:00Z"
+  },
+  {
+    "id": "post_050",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "Glow up season ✨",
+    "location": "Los Angeles, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post050_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post050_2.jpg"
+      }
+    ],
+    "hashtags": ["beauty", "glow", "makeup"],
+    "stats": {
+      "likes": 119842,
+      "comments": 4122,
+      "shares": 1501,
+      "reposts": 163,
+      "bookmarks": 12234,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-23T11:00:00Z"
+  },
+  {
+    "id": "post_051",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Weekend escape 🌿 Sometimes all you need is fresh air and a good book.",
+    "location": "Lake Como, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post051_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post051_2.jpg"
+      }
+    ],
+    "hashtags": ["weekend", "travel", "nature", "books"],
+    "stats": {
+      "likes": 148392,
+      "comments": 3914,
+      "shares": 1128,
+      "reposts": 137,
+      "bookmarks": 14520,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-22T09:15:00Z"
+  },
+  {
+    "id": "post_052",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Views worth waking up at 5 AM for 🌄",
+    "location": "Cappadocia, Turkey",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post052_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post052_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post052_3.jpg"
+      }
+    ],
+    "hashtags": ["travel", "sunrise", "balloons", "adventure"],
+    "stats": {
+      "likes": 52481,
+      "comments": 731,
+      "shares": 382,
+      "reposts": 49,
+      "bookmarks": 3614,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-21T06:00:00Z"
+  },
+  {
+    "id": "post_053",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Fog rolling through the valley 📸",
+    "location": "Yosemite National Park, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post053_1.jpg"
+      }
+    ],
+    "hashtags": ["photography", "nature", "landscape"],
+    "stats": {
+      "likes": 19684,
+      "comments": 652,
+      "shares": 241,
+      "reposts": 28,
+      "bookmarks": 2195,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-20T17:40:00Z"
+  },
+  {
+    "id": "post_054",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Dinner with a skyline view 🍷✨",
+    "location": "New York, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post054_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post054_2.jpg"
+      }
+    ],
+    "hashtags": ["food", "city", "travel", "lifestyle"],
+    "stats": {
+      "likes": 97421,
+      "comments": 2268,
+      "shares": 784,
+      "reposts": 91,
+      "bookmarks": 8217,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-19T20:15:00Z"
+  },
+  {
+    "id": "post_055",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Coffee ☕ + VS Code = productive day.",
+    "location": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post055_1.jpg"
+      }
+    ],
+    "hashtags": ["coding", "developer", "workspace"],
+    "stats": {
+      "likes": 4826,
+      "comments": 208,
+      "shares": 73,
+      "reposts": 8,
+      "bookmarks": 701,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-19T08:30:00Z"
+  },
+  {
+    "id": "post_056",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Little moments matter the most 🤍",
+    "location": "Edinburgh, Scotland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post056_1.jpg"
+      }
+    ],
+    "hashtags": ["life", "minimal", "weekend"],
+    "stats": {
+      "likes": 132084,
+      "comments": 3402,
+      "shares": 982,
+      "reposts": 110,
+      "bookmarks": 11842,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-18T14:20:00Z"
+  },
+  {
+    "id": "post_057",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Progress isn't always visible, but it's happening.",
+    "location": "Chicago, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post057_1.jpg"
+      }
+    ],
+    "hashtags": ["fitness", "motivation", "discipline"],
+    "stats": {
+      "likes": 7631,
+      "comments": 295,
+      "shares": 116,
+      "reposts": 14,
+      "bookmarks": 884,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-17T18:00:00Z"
+  },
+  {
+    "id": "post_058",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Simple outfit. Clean lines. Timeless style.",
+    "location": "Milan, Italy",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post058_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post058_2.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "minimal", "style", "ootd"],
+    "stats": {
+      "likes": 9541,
+      "comments": 401,
+      "shares": 136,
+      "reposts": 18,
+      "bookmarks": 1138,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-16T12:45:00Z"
+  },
+  {
+    "id": "post_059",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "One more passport stamp ✔️",
+    "location": "Lisbon, Portugal",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post059_1.jpg"
+      }
+    ],
+    "hashtags": ["travel", "europe", "city"],
+    "stats": {
+      "likes": 44112,
+      "comments": 586,
+      "shares": 291,
+      "reposts": 34,
+      "bookmarks": 2798,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-15T10:10:00Z"
+  },
+  {
+    "id": "post_060",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Homemade desserts always win 🍰",
+    "location": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post060_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post060_2.jpg"
+      }
+    ],
+    "hashtags": ["dessert", "food", "baking", "sweet"],
+    "stats": {
+      "likes": 89456,
+      "comments": 2147,
+      "shares": 741,
+      "reposts": 86,
+      "bookmarks": 7934,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-14T19:30:00Z"
+  },
+  {
+    "id": "post_061",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "caption": "Today's favorite look ✨ Which one do you like more?",
+    "location": "Seoul, South Korea",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post061_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post061_2.jpg"
+      }
+    ],
+    "hashtags": ["beauty", "makeup", "skincare", "glow"],
+    "stats": {
+      "likes": 126482,
+      "comments": 4317,
+      "shares": 1526,
+      "reposts": 184,
+      "bookmarks": 13428,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-13T09:20:00Z"
+  },
+  {
+    "id": "post_062",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "The little café at the end of the street became my favorite place ☕",
+    "location": "London, UK",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post062_1.jpg"
+      }
+    ],
+    "hashtags": ["coffee", "lifestyle", "weekend"],
+    "stats": {
+      "likes": 151283,
+      "comments": 3840,
+      "shares": 1210,
+      "reposts": 139,
+      "bookmarks": 14903,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-12T11:05:00Z"
+  },
+  {
+    "id": "post_063",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "caption": "Sunrise over the ocean never disappoints 🌅",
+    "location": "Maldives",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post063_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post063_2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post063_3.jpg"
+      }
+    ],
+    "hashtags": ["travel", "sunrise", "beach", "nature"],
+    "stats": {
+      "likes": 56483,
+      "comments": 812,
+      "shares": 423,
+      "reposts": 48,
+      "bookmarks": 3961,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-11T06:10:00Z"
+  },
+  {
+    "id": "post_064",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "caption": "Finally shipped the new feature 🚀",
+    "location": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post064_1.jpg"
+      }
+    ],
+    "hashtags": ["developer", "coding", "react", "typescript"],
+    "stats": {
+      "likes": 5481,
+      "comments": 244,
+      "shares": 91,
+      "reposts": 12,
+      "bookmarks": 861,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-10T22:18:00Z"
+  },
+  {
+    "id": "post_065",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "caption": "Morning fog created the perfect scene 📷",
+    "location": "Hallstatt, Austria",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post065_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post065_2.jpg"
+      }
+    ],
+    "hashtags": ["photography", "travel", "landscape"],
+    "stats": {
+      "likes": 21784,
+      "comments": 724,
+      "shares": 281,
+      "reposts": 35,
+      "bookmarks": 2631,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-10T07:50:00Z"
+  },
+  {
+    "id": "post_066",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "caption": "Breakfast with a mountain view 🥐☕",
+    "location": "Zermatt, Switzerland",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post066_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post066_2.jpg"
+      }
+    ],
+    "hashtags": ["travel", "food", "mountains", "coffee"],
+    "stats": {
+      "likes": 98754,
+      "comments": 2488,
+      "shares": 863,
+      "reposts": 94,
+      "bookmarks": 8420,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-09T08:35:00Z"
+  },
+  {
+    "id": "post_067",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "caption": "One peaceful afternoon in the woods 🌲",
+    "location": "British Columbia, Canada",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post067_1.jpg"
+      }
+    ],
+    "hashtags": ["forest", "nature", "hiking"],
+    "stats": {
+      "likes": 3587,
+      "comments": 142,
+      "shares": 41,
+      "reposts": 5,
+      "bookmarks": 302,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": true
+    },
+    "createdAt": "2026-05-08T16:25:00Z"
+  },
+  {
+    "id": "post_068",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "caption": "Keeping it simple today 🤍",
+    "location": "Paris, France",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post068_1.jpg"
+      }
+    ],
+    "hashtags": ["fashion", "minimal", "ootd"],
+    "stats": {
+      "likes": 10184,
+      "comments": 416,
+      "shares": 154,
+      "reposts": 21,
+      "bookmarks": 1208,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-08T12:10:00Z"
+  },
+  {
+    "id": "post_069",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "caption": "Recovery is just as important as training.",
+    "location": "Miami, USA",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post069_1.jpg"
+      }
+    ],
+    "hashtags": ["fitness", "recovery", "gym", "health"],
+    "stats": {
+      "likes": 8341,
+      "comments": 327,
+      "shares": 128,
+      "reposts": 15,
+      "bookmarks": 942,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-07T18:40:00Z"
+  },
+  {
+    "id": "post_070",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "caption": "Golden hour, good company, and lots of laughs 💛",
+    "location": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/images/posts/post070_1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "/images/posts/post070_2.jpg"
+      }
+    ],
+    "hashtags": ["life", "friends", "goldenhour", "memories"],
+    "stats": {
+      "likes": 146230,
+      "comments": 3711,
+      "shares": 1174,
+      "reposts": 134,
+      "bookmarks": 14082,
+      "views": 0
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "reposted": false,
+      "following": false
+    },
+    "createdAt": "2026-05-06T19:15:00Z"
+  }
+]

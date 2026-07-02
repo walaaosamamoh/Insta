@@ -1,0 +1,602 @@
+[
+  {
+    "id": "story_001",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story001.jpg"
+    },
+    "viewCount": 812,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-07-01T08:00:00Z",
+    "expiresAt": "2026-07-02T08:00:00Z"
+  },
+  {
+    "id": "story_002",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story002.jpg"
+    },
+    "viewCount": 5481,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-07-01T07:15:00Z",
+    "expiresAt": "2026-07-02T07:15:00Z"
+  },
+  {
+    "id": "story_003",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story003.mp4"
+    },
+    "viewCount": 3924,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-07-01T06:40:00Z",
+    "expiresAt": "2026-07-02T06:40:00Z"
+  },
+  {
+    "id": "story_004",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story004.jpg"
+    },
+    "viewCount": 4688,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-07-01T05:50:00Z",
+    "expiresAt": "2026-07-02T05:50:00Z"
+  },
+  {
+    "id": "story_005",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story005.jpg"
+    },
+    "viewCount": 524,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-07-01T04:20:00Z",
+    "expiresAt": "2026-07-02T04:20:00Z"
+  },
+  {
+    "id": "story_006",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story006.mp4"
+    },
+    "viewCount": 1268,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-07-01T03:30:00Z",
+    "expiresAt": "2026-07-02T03:30:00Z"
+  },
+  {
+    "id": "story_007",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story007.jpg"
+    },
+    "viewCount": 913,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-07-01T02:10:00Z",
+    "expiresAt": "2026-07-02T02:10:00Z"
+  },
+  {
+    "id": "story_008",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story008.jpg"
+    },
+    "viewCount": 748,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-07-01T01:45:00Z",
+    "expiresAt": "2026-07-02T01:45:00Z"
+  },
+  {
+    "id": "story_009",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story009.jpg"
+    },
+    "viewCount": 1034,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-07-01T00:30:00Z",
+    "expiresAt": "2026-07-02T00:30:00Z"
+  },
+  {
+    "id": "story_010",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story010.mp4"
+    },
+    "viewCount": 682,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T23:10:00Z",
+    "expiresAt": "2026-07-01T23:10:00Z"
+  },
+  {
+    "id": "story_011",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story011.jpg"
+    },
+    "viewCount": 5634,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T22:45:00Z",
+    "expiresAt": "2026-07-01T22:45:00Z"
+  },
+  {
+    "id": "story_012",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story012.mp4"
+    },
+    "viewCount": 1386,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T22:10:00Z",
+    "expiresAt": "2026-07-01T22:10:00Z"
+  },
+  {
+    "id": "story_013",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story013.jpg"
+    },
+    "viewCount": 4217,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T21:25:00Z",
+    "expiresAt": "2026-07-01T21:25:00Z"
+  },
+  {
+    "id": "story_014",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story014.jpg"
+    },
+    "viewCount": 1213,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T20:50:00Z",
+    "expiresAt": "2026-07-01T20:50:00Z"
+  },
+  {
+    "id": "story_015",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story015.mp4"
+    },
+    "viewCount": 4978,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T20:05:00Z",
+    "expiresAt": "2026-07-01T20:05:00Z"
+  },
+  {
+    "id": "story_016",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story016.jpg"
+    },
+    "viewCount": 864,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T19:30:00Z",
+    "expiresAt": "2026-07-01T19:30:00Z"
+  },
+  {
+    "id": "story_017",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story017.mp4"
+    },
+    "viewCount": 792,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T18:55:00Z",
+    "expiresAt": "2026-07-01T18:55:00Z"
+  },
+  {
+    "id": "story_018",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story018.jpg"
+    },
+    "viewCount": 1182,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T18:10:00Z",
+    "expiresAt": "2026-07-01T18:10:00Z"
+  },
+  {
+    "id": "story_019",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story019.jpg"
+    },
+    "viewCount": 608,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T17:45:00Z",
+    "expiresAt": "2026-07-01T17:45:00Z"
+  },
+  {
+    "id": "story_020",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story020.mp4"
+    },
+    "viewCount": 5916,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T17:00:00Z",
+    "expiresAt": "2026-07-01T17:00:00Z"
+  },
+  {
+    "id": "story_021",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "/images/users/olivia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story021.jpg"
+    },
+    "viewCount": 4385,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T16:20:00Z",
+    "expiresAt": "2026-07-01T16:20:00Z"
+  },
+  {
+    "id": "story_022",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "/images/users/john.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story022.jpg"
+    },
+    "viewCount": 1527,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T15:45:00Z",
+    "expiresAt": "2026-07-01T15:45:00Z"
+  },
+  {
+    "id": "story_023",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "/images/users/mia.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story023.jpg"
+    },
+    "viewCount": 5126,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T15:10:00Z",
+    "expiresAt": "2026-07-01T15:10:00Z"
+  },
+  {
+    "id": "story_024",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "/images/users/david.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story024.jpg"
+    },
+    "viewCount": 841,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T14:35:00Z",
+    "expiresAt": "2026-07-01T14:35:00Z"
+  },
+  {
+    "id": "story_025",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "/images/users/noah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story025.mp4"
+    },
+    "viewCount": 1369,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T14:00:00Z",
+    "expiresAt": "2026-07-01T14:00:00Z"
+  },
+  {
+    "id": "story_026",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "/images/users/emma.jpg",
+      "verified": true
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story026.jpg"
+    },
+    "viewCount": 6082,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T13:25:00Z",
+    "expiresAt": "2026-07-01T13:25:00Z"
+  },
+  {
+    "id": "story_027",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "/images/users/alex.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "video",
+      "url": "/videos/stories/story027.mp4"
+    },
+    "viewCount": 935,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T12:50:00Z",
+    "expiresAt": "2026-07-01T12:50:00Z"
+  },
+  {
+    "id": "story_028",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "/images/users/sarah.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story028.jpg"
+    },
+    "viewCount": 653,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T12:15:00Z",
+    "expiresAt": "2026-07-01T12:15:00Z"
+  },
+  {
+    "id": "story_029",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "/images/users/lucy.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story029.jpg"
+    },
+    "viewCount": 1248,
+    "viewer": {
+      "viewed": true
+    },
+    "createdAt": "2026-06-30T11:40:00Z",
+    "expiresAt": "2026-07-01T11:40:00Z"
+  },
+  {
+    "id": "story_030",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael Scott",
+      "avatar": "/images/users/michael.jpg",
+      "verified": false
+    },
+    "media": {
+      "type": "image",
+      "url": "/images/stories/story030.jpg"
+    },
+    "viewCount": 714,
+    "viewer": {
+      "viewed": false
+    },
+    "createdAt": "2026-06-30T11:05:00Z",
+    "expiresAt": "2026-07-01T11:05:00Z"
+  }
+]
