@@ -5,9 +5,10 @@
     </div>
 
     <div>
-      <form class="mx-6 flex flex-col gap-4">
+      <form @submit.prevent="Login" class="mx-6 flex flex-col gap-4">
         <div class="relative">
           <input
+            v-model="user.email"
             id="email"
             type="email"
             placeholder=" "
@@ -23,6 +24,7 @@
         </div>
         <div class="relative">
           <input
+            v-model="user.password"
             id="password"
             :type="showPassword ? 'text' : 'password'"
             placeholder=" "
@@ -78,6 +80,7 @@
           </button>
         </div>
         <button type="submit" class="bg-blue-600 text-white rounded-4xl p-2.5">Log in</button>
+        <div v-if="error" class="text-sm text-red-600 text-center">{{ error }}</div>
       </form>
     </div>
 
@@ -105,11 +108,31 @@
 </template>
 
 <script>
+import { useAuthStore } from '@/stores/auth'
+import { mapActions, mapState } from 'pinia'
+
 export default {
   data() {
     return {
       showPassword: false,
+      user: {
+        email: '',
+        password: '',
+      },
     }
+  },
+  computed: {
+    ...mapState(useAuthStore, ['error']),
+  },
+  methods: {
+    ...mapActions(useAuthStore, ['login']),
+    Login() {
+      const user = this.login(this.user.email, this.user.password)
+      console.log(user)
+      if (user) {
+        this.$router.push({ name: 'home' })
+      }
+    },
   },
 }
 </script>
