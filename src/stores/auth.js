@@ -4,7 +4,7 @@ import users from '@/data/users.json'
 export const useAuthStore = defineStore('authStore', {
   state: () => ({
     users: users,
-    currentUser: null,
+    currentUser: JSON.parse(localStorage.getItem('user')) || null,
     error: '',
   }),
 
@@ -13,7 +13,7 @@ export const useAuthStore = defineStore('authStore', {
       const found = this.users.find((user) => user.email == email)
       if (found) {
         if (found.password == password) {
-          this.currentUser = found
+          localStorage.setItem('user', JSON.stringify(found))
           return found
         } else {
           this.error = 'incorrect password'

@@ -6,7 +6,7 @@
     "username": "john_doe",
     "displayName": "John Doe",
     "bio": "📸 Travel • Coffee • Adventure",
-    "avatar": "/images/users/john.jpg",
+    "avatar": "https://i.pravatar.cc/150?img=6",
     "verified": true,
     "private": false,
     "website": "https://johndoe.dev",

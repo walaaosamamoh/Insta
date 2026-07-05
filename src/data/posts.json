@@ -5,7 +5,7 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=6",
       "verified": true
     },
     "caption": "Beautiful sunset over the city 🌅",
@@ -13,11 +13,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post001_1.jpg"
+        "url": "https://i.pravatar.cc/150?img=11"
       },
       {
-        "type": "image",
-        "url": "/images/posts/post001_2.jpg"
+        "type": "video",
+        "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
       }
     ],
     "hashtags": ["sunset", "travel", "photography"],
@@ -43,7 +43,7 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=8",
       "verified": false
     },
     "caption": "Morning walk in the forest 🌿",
@@ -51,7 +51,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post002_1.jpg"
+        "url": "https://i.pravatar.cc/150?img=7"
       }
     ],
     "hashtags": ["nature", "morning", "peace"],
@@ -84,8 +84,8 @@
     "location": "Los Angeles, USA",
     "media": [
       {
-        "type": "image",
-        "url": "/images/posts/post003_1.jpg"
+        "type": "video",
+        "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
       }
     ],
     "hashtags": ["fitness", "gym", "motivation"],
@@ -118,12 +118,12 @@
     "location": "Paris, France",
     "media": [
       {
-        "type": "image",
-        "url": "/images/posts/post004_1.jpg"
+        "type": "video",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4"
       },
       {
         "type": "image",
-        "url": "/images/posts/post004_2.jpg"
+        "url": "https://i.pravatar.cc/150?img=7"
       }
     ],
     "hashtags": ["food", "travel", "brunch"],
@@ -338,8 +338,8 @@
     "location": "Seoul, South Korea",
     "media": [
       {
-        "type": "image",
-        "url": "/images/posts/post010_1.jpg"
+        "type": "video",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4"
       }
     ],
     "hashtags": ["beauty", "makeup", "tutorial"],
@@ -592,8 +592,8 @@
     "location": "Malibu, USA",
     "media": [
       {
-        "type": "image",
-        "url": "/images/posts/post017_1.jpg"
+        "type": "video",
+        "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
       }
     ],
     "hashtags": ["beach", "sunset", "summer"],
@@ -710,8 +710,8 @@
         "url": "/images/posts/post020_1.jpg"
       },
       {
-        "type": "image",
-        "url": "/images/posts/post020_2.jpg"
+        "type": "video",
+        "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4"
       }
     ],
     "hashtags": ["beauty", "makeup", "glam"],
