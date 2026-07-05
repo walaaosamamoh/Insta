@@ -47,8 +47,8 @@
         <!-- reaction icons -->
         <div class="flex items-center gap-3 p-2">
           <div class="flex">
-            <div @click="handleLike(post)">
-              <LikeSvg :liked />
+            <div>
+              <LikeSvg :post />
             </div>
             <span class="text-sm font-semibold">{{ post.stats.likes }}</span>
           </div>
@@ -135,14 +135,6 @@ export default {
     ...mapState(usePostsStore, ['posts']),
   },
   methods: {
-    handleLike(post) {
-      this.liked = !this.liked
-      if (this.liked) {
-        post.stats.likes++
-      } else {
-        post.stats.likes--
-      }
-    },
     handleRepost(post) {
       this.reposted = !this.reposted
       if (this.reposted) return post.stats.reposts++
@@ -157,6 +149,9 @@ export default {
     openComments() {
       this.isOpen = true
     },
+  },
+  created() {
+    console.log('the length of posts is : ', this.posts.length)
   },
 }
 </script>

@@ -13,7 +13,7 @@
     "media": [
       {
         "type": "image",
-        "url": "https://i.pravatar.cc/150?img=11"
+        "url": "https://i.pravatar.cc/600?img=11"
       },
       {
         "type": "video",
@@ -51,7 +51,7 @@
     "media": [
       {
         "type": "image",
-        "url": "https://i.pravatar.cc/150?img=7"
+        "url": "https://i.pravatar.cc/600?img=7"
       }
     ],
     "hashtags": ["nature", "morning", "peace"],
@@ -77,7 +77,7 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": false
     },
     "caption": "Never skip leg day 💪",
@@ -111,7 +111,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Brunch with a view 🍳",
@@ -149,7 +149,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Coffee first, everything else later ☕",
@@ -157,7 +157,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post005_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coffee", "lifestyle"],
@@ -183,7 +183,7 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://i.pravatar.cc/600?img=6",
       "verified": false
     },
     "caption": "Late night coding session 💻",
@@ -191,7 +191,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post006_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["developer", "coding", "javascript"],
@@ -225,11 +225,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post007_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=9"
       },
       {
         "type": "image",
-        "url": "/images/posts/post007_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=10"
       }
     ],
     "hashtags": ["roadtrip", "weekend"],
@@ -263,7 +263,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post008_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=11"
       }
     ],
     "hashtags": ["fashion", "style"],
@@ -297,15 +297,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post009_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post009_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post009_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["photography", "landscape", "nature"],
@@ -373,11 +373,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post011_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post011_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "mountains", "adventure"],
@@ -411,7 +411,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post012_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["flowers", "spring", "nature"],
@@ -445,7 +445,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post013_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fitness", "motivation", "workout"],
@@ -479,15 +479,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post014_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post014_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post014_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["food", "italy", "pasta"],
@@ -513,7 +513,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Rainy afternoons and a good book 📚☕",
@@ -521,7 +521,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post015_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["books", "coffee", "cozy"],
@@ -555,11 +555,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post016_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post016_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["react", "coding", "webdev"],
@@ -627,11 +627,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post018_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post018_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "minimal", "style"],
@@ -665,15 +665,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post019_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post019_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post019_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["waterfall", "nature", "photography"],
@@ -707,7 +707,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post020_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "video",
@@ -745,11 +745,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post021_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post021_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["food", "japan", "travel"],
@@ -783,15 +783,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post022_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post022_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post022_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["beach", "bali", "travel"],
@@ -825,7 +825,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post023_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["skincare", "beauty", "routine"],
@@ -859,7 +859,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post024_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["developer", "setup", "coding"],
@@ -893,11 +893,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post025_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post025_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["night", "stars", "photography"],
@@ -931,7 +931,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post026_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["nature", "forest", "morning"],
@@ -965,7 +965,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post027_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["gym", "fitness", "discipline"],
@@ -999,11 +999,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post028_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post028_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "ootd", "minimal"],
@@ -1029,7 +1029,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Sunday mornings ☕📖",
@@ -1037,7 +1037,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post029_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coffee", "books", "weekend"],
@@ -1071,11 +1071,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post030_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post030_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["city", "night", "travel"],
@@ -1109,11 +1109,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post031_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post031_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["hiking", "mountains", "travel"],
@@ -1147,7 +1147,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post032_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["nature", "lake", "peace"],
@@ -1181,7 +1181,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post033_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fitness", "gym", "strength"],
@@ -1215,15 +1215,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post034_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post034_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post034_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["streetfood", "travel", "asia"],
@@ -1249,7 +1249,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Peaceful evening reading 📚",
@@ -1257,7 +1257,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post035_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["books", "reading", "calm"],
@@ -1291,7 +1291,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post036_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coding", "debugging", "developer"],
@@ -1325,7 +1325,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post037_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["photography", "learning", "hobby"],
@@ -1359,11 +1359,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post038_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post038_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "minimal", "bw"],
@@ -1397,11 +1397,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post039_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post039_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["desert", "roadtrip", "photography"],
@@ -1435,11 +1435,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post040_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post040_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["beauty", "summer", "glow"],
@@ -1473,7 +1473,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post041_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "airport", "wanderlust"],
@@ -1507,11 +1507,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post042_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post042_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["nature", "iceland", "waterfall"],
@@ -1545,7 +1545,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post043_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["gym", "discipline", "fitness"],
@@ -1579,11 +1579,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post044_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post044_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coffee", "travel", "cafe"],
@@ -1609,7 +1609,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Quiet mornings hit different ☕",
@@ -1617,7 +1617,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post045_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coffee", "calm", "morning"],
@@ -1651,7 +1651,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post046_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coding", "devlife", "javascript"],
@@ -1685,11 +1685,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post047_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post047_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["cooking", "food", "learning"],
@@ -1723,7 +1723,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post048_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "minimal", "style"],
@@ -1757,11 +1757,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post049_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post049_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "sea", "photography"],
@@ -1795,11 +1795,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post050_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post050_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["beauty", "glow", "makeup"],
@@ -1825,7 +1825,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Weekend escape 🌿 Sometimes all you need is fresh air and a good book.",
@@ -1833,11 +1833,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post051_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post051_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["weekend", "travel", "nature", "books"],
@@ -1871,15 +1871,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post052_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post052_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post052_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "sunrise", "balloons", "adventure"],
@@ -1913,7 +1913,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post053_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["photography", "nature", "landscape"],
@@ -1947,11 +1947,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post054_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post054_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["food", "city", "travel", "lifestyle"],
@@ -1985,7 +1985,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post055_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coding", "developer", "workspace"],
@@ -2011,7 +2011,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Little moments matter the most 🤍",
@@ -2019,7 +2019,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post056_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["life", "minimal", "weekend"],
@@ -2053,7 +2053,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post057_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fitness", "motivation", "discipline"],
@@ -2087,11 +2087,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post058_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post058_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "minimal", "style", "ootd"],
@@ -2125,7 +2125,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post059_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "europe", "city"],
@@ -2159,11 +2159,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post060_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post060_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["dessert", "food", "baking", "sweet"],
@@ -2197,11 +2197,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post061_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post061_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["beauty", "makeup", "skincare", "glow"],
@@ -2227,7 +2227,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "The little café at the end of the street became my favorite place ☕",
@@ -2235,7 +2235,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post062_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["coffee", "lifestyle", "weekend"],
@@ -2269,15 +2269,15 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post063_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post063_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post063_3.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "sunrise", "beach", "nature"],
@@ -2311,7 +2311,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post064_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["developer", "coding", "react", "typescript"],
@@ -2345,11 +2345,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post065_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post065_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["photography", "travel", "landscape"],
@@ -2383,11 +2383,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post066_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post066_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["travel", "food", "mountains", "coffee"],
@@ -2421,7 +2421,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post067_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["forest", "nature", "hiking"],
@@ -2455,7 +2455,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post068_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fashion", "minimal", "ootd"],
@@ -2489,7 +2489,7 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post069_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["fitness", "recovery", "gym", "health"],
@@ -2515,7 +2515,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://i.pravatar.cc/150?img=7",
       "verified": true
     },
     "caption": "Golden hour, good company, and lots of laughs 💛",
@@ -2523,11 +2523,11 @@
     "media": [
       {
         "type": "image",
-        "url": "/images/posts/post070_1.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       },
       {
         "type": "image",
-        "url": "/images/posts/post070_2.jpg"
+        "url": "https://i.pravatar.cc/600?img=8"
       }
     ],
     "hashtags": ["life", "friends", "goldenhour", "memories"],

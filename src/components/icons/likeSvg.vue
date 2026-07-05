@@ -1,12 +1,12 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    :fill="liked ? 'red' : 'white'"
+    :fill="isFavorite(post) ? 'red' : 'white'"
     viewBox="0 0 24 24"
     stroke-width="1.5"
-    :stroke="liked ? 'red' : 'currentColor'"
+    :stroke="isFavorite(post) ? 'red' : 'currentColor'"
     class="size-6"
-    @click="l"
+    @click="handleLike(post)"
   >
     <path
       stroke-linecap="round"
@@ -17,12 +17,11 @@
 </template>
 
 <script>
+import FavoriteMixin from '@/mixins/FavoriteMixin'
 export default {
-  props: ['liked'],
-  methods: {
-    l() {
-      console.log(this.liked)
-    },
-  },
+  mixins: [FavoriteMixin],
+
+  props: ['post'],
+  methods: {},
 }
 </script>
