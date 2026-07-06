@@ -22,6 +22,5 @@ export default {
   mixins: [FavoriteMixin],
 
   props: ['post'],
-  methods: {},
 }
 </script>

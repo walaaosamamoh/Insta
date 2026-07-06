@@ -59,8 +59,8 @@
             <span class="text-sm font-semibold">{{ post.stats.comments }}</span>
           </div>
           <div class="flex">
-            <div @click="handleRepost(post)">
-              <RepostSvg :reposted />
+            <div>
+              <RepostSvg :post />
             </div>
             <span class="text-sm font-semibold">{{ post.stats.reposts }}</span>
           </div>
@@ -135,11 +135,6 @@ export default {
     ...mapState(usePostsStore, ['posts']),
   },
   methods: {
-    handleRepost(post) {
-      this.reposted = !this.reposted
-      if (this.reposted) return post.stats.reposts++
-      else return post.stats.reposts--
-    },
     handleShare(post) {
       navigator.share({
         title: post.caption,
