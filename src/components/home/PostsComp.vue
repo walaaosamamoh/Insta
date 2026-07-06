@@ -71,7 +71,7 @@
             <span class="text-sm font-semibold">{{ post.stats.shares }}</span>
           </div>
 
-          <BookmarkSvg class="ml-auto" />
+          <BookmarkSvg :post class="ml-auto" />
         </div>
 
         <!-- caption and hashtags -->
