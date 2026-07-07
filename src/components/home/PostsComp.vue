@@ -7,7 +7,7 @@
           <div class="flex flex-col">
             <div class="flex items-center gap-1">
               <h2 class="font-semibold text-sm">{{ post.user.username }}</h2>
-              <VerifiedSvg />
+              <VerifiedSvg v-show="post.user.verified" />
             </div>
             <span class="text-xs text-gray-700">{{ post.location }}</span>
           </div>
