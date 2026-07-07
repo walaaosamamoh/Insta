@@ -5,7 +5,8 @@
     viewBox="0 0 24 24"
     stroke-width="1.5"
     stroke="currentColor"
-    class="size-6 -rotate-z-26"
+    class="size-6 -rotate-z-26 cursor-pointer"
+    @click="handleShare(post)"
   >
     <path
       stroke-linecap="round"
@@ -14,3 +15,17 @@
     />
   </svg>
 </template>
+<script>
+export default {
+  props: ['post'],
+  emits: ['openComments'],
+  methods: {
+    handleShare(post) {
+      navigator.share({
+        title: post.caption,
+        url: `${window.location.origin}/posts/${post.id}`,
+      })
+    },
+  },
+}
+</script>

@@ -45,35 +45,7 @@
           </Swiper>
         </div>
         <!-- reaction icons -->
-        <div class="flex items-center gap-3 p-2">
-          <div class="flex">
-            <div>
-              <LikeSvg :post />
-            </div>
-            <span class="text-sm font-semibold">{{ post.stats.likes }}</span>
-          </div>
-          <div class="flex">
-            <div @click="openComments(post)">
-              <CommentSvg />
-            </div>
-            <span class="text-sm font-semibold">{{ post.stats.comments }}</span>
-          </div>
-          <div class="flex">
-            <div>
-              <RepostSvg :post />
-            </div>
-            <span class="text-sm font-semibold">{{ post.stats.reposts }}</span>
-          </div>
-          <div class="flex">
-            <div @click="handleShare(post)">
-              <ShareSvg />
-            </div>
-            <span class="text-sm font-semibold">{{ post.stats.shares }}</span>
-          </div>
-
-          <BookmarkSvg :post class="ml-auto" />
-        </div>
-
+        <post-reacts :post="post" @openComments="openComments" />
         <!-- caption and hashtags -->
         <div class="flex items-center flex-wrap gap-2">
           <h2 class="font-semibold text-sm">{{ post.user.username }}</h2>
@@ -82,11 +54,10 @@
             <span v-for="hashtag in post.hashtags" :key="hashtag">#{{ hashtag }} </span>
           </div>
         </div>
-
-        <div>
-          <CommentsSec :isOpen />
-        </div>
       </div>
+    </div>
+    <div>
+      <CommentsSec :post="selectedPost" :isOpen="isOpen" @close="isOpen = false" />
     </div>
   </div>
 </template>
@@ -102,13 +73,9 @@ import 'swiper/css'
 import 'swiper/css/pagination'
 
 import { Pagination, Mousewheel, Keyboard } from 'swiper/modules'
-import LikeSvg from '../icons/likeSvg.vue'
-import CommentSvg from '../icons/commentSvg.vue'
-import RepostSvg from '../icons/repostSvg.vue'
-import ShareSvg from '../icons/shareSvg.vue'
-import BookmarkSvg from '../icons/bookmarkSvg.vue'
 import VerifiedSvg from '../icons/verifiedSvg.vue'
 import CommentsSec from '../common/CommentsSec.vue'
+import PostReacts from '../PostReacts.vue'
 
 export default {
   data() {
@@ -117,32 +84,26 @@ export default {
       liked: false,
       reposted: false,
       isOpen: false,
+      selectedPost: null,
     }
   },
   components: {
     ProfilePic,
     Swiper,
     SwiperSlide,
-    LikeSvg,
-    CommentSvg,
-    RepostSvg,
-    ShareSvg,
-    BookmarkSvg,
+
     VerifiedSvg,
     CommentsSec,
+    PostReacts,
   },
   computed: {
     ...mapState(usePostsStore, ['posts']),
   },
   methods: {
-    handleShare(post) {
-      navigator.share({
-        title: post.caption,
-        url: `${window.location.origin}/posts/${post.id}`,
-      })
-    },
-    openComments() {
+    openComments(post) {
       this.isOpen = true
+      this.selectedPost = post
+      console.log(`The value received is : ${this.selectedPost}`)
     },
   },
   created() {
@@ -150,7 +111,7 @@ export default {
   },
 }
 </script>
-<style>
+<style scoped>
 .swiper {
   width: 100%;
   height: 100%;

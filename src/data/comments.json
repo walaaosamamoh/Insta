@@ -1,7 +1,7 @@
 [
   {
     "id": "comment_001",
-    "postId": "post_061",
+    "postId": "post_001",
     "user": {
       "id": "user_007",
       "username": "michael",
@@ -15,7 +15,7 @@
   },
   {
     "id": "comment_002",
-    "postId": "post_062",
+    "postId": "post_002",
     "user": {
       "id": "user_002",
       "username": "sarah",
@@ -335,7 +335,7 @@
   },
   {
     "id": "comment_023",
-    "postId": "post_062",
+    "postId": "post_002",
     "user": {
       "id": "user_010",
       "username": "mia",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "comment_078",
-    "postId": "post_062",
+    "postId": "post_002",
     "user": {
       "id": "user_003",
       "username": "alex",
