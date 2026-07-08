@@ -1,15 +1,15 @@
 export default {
   methods: {
-    isReposted(post) {
-      return post?.viewer?.reposted ? true : false
+    isReposted(item) {
+      return item?.viewer?.reposted ? true : false
     },
-    handleRepost(post) {
-      if (!post.viewer.reposted) {
-        post.stats.reposts++
-        post.viewer.reposted = true
+    handleRepost(item) {
+      if (!item.viewer.reposted) {
+        item.stats.reposts++
+        item.viewer.reposted = true
       } else {
-        post.stats.reposts--
-        post.viewer.reposted = false
+        item.stats.reposts--
+        item.viewer.reposted = false
       }
     },
   },

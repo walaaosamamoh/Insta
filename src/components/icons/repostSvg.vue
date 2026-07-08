@@ -1,7 +1,7 @@
 <template>
-  <div @click="handleRepost(post)">
+  <div @click="handleRepost(item)">
     <svg
-      v-if="!isReposted(post)"
+      v-if="!isReposted(item)"
       xmlns="http://www.w3.org/2000/svg"
       width="24"
       height="24"
@@ -42,6 +42,6 @@ import RepostMixin from '@/mixins/RepostMixin'
 
 export default {
   mixins: [RepostMixin],
-  props: ['post'],
+  props: ['item'],
 }
 </script>

@@ -1,15 +1,15 @@
 export default {
   methods: {
-    isBookmarked(post) {
-      return post?.viewer?.bookmarked
+    isBookmarked(item) {
+      return item?.viewer?.bookmarked
     },
-    handleBookmark(post) {
-      if (!post.viewer.bookmarked) {
-        post.stats.bookmarks++
-        post.viewer.bookmarked = true
+    handleBookmark(item) {
+      if (!item.viewer.bookmarked) {
+        item.stats.bookmarks++
+        item.viewer.bookmarked = true
       } else {
-        post.stats.bookmarks--
-        post.viewer.bookmarked = false
+        item.stats.bookmarks--
+        item.viewer.bookmarked = false
       }
     },
   },

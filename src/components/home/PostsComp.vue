@@ -45,7 +45,7 @@
           </Swiper>
         </div>
         <!-- reaction icons -->
-        <post-reacts :post="post" @openComments="openComments" />
+        <post-reacts :item="post" @openComments="openComments" />
         <!-- caption and hashtags -->
         <div class="flex items-center flex-wrap gap-2">
           <h2 class="font-semibold text-sm">{{ post.user.username }}</h2>

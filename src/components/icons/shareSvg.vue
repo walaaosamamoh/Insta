@@ -6,7 +6,7 @@
     stroke-width="1.5"
     stroke="currentColor"
     class="size-6 -rotate-z-26 cursor-pointer"
-    @click="handleShare(post)"
+    @click="handleShare(item)"
   >
     <path
       stroke-linecap="round"
@@ -17,13 +17,13 @@
 </template>
 <script>
 export default {
-  props: ['post'],
+  props: ['item'],
   emits: ['openComments'],
   methods: {
-    handleShare(post) {
+    handleShare(item) {
       navigator.share({
-        title: post.caption,
-        url: `${window.location.origin}/posts/${post.id}`,
+        title: item.caption,
+        url: `${window.location.origin}/posts/${item.id}`,
       })
     },
   },

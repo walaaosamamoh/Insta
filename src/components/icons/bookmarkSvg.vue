@@ -1,12 +1,12 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    :fill="isBookmarked(post) ? 'black' : 'white'"
+    :fill="isBookmarked(item) ? 'black' : 'white'"
     viewBox="0 0 24 24"
     stroke-width="1.5"
     stroke="currentColor"
     class="size-6"
-    @click="handleBookmark(post)"
+    @click="handleBookmark(item)"
   >
     <path
       stroke-linecap="round"
@@ -21,6 +21,6 @@ import BookmarkMixin from '@/mixins/BookmarkMixin'
 export default {
   mixins: [BookmarkMixin],
 
-  props: ['post'],
+  props: ['item'],
 }
 </script>

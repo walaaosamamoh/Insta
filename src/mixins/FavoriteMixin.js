@@ -1,15 +1,15 @@
 export default {
   methods: {
-    isFavorite(post) {
-      return post?.viewer?.liked ? true : false
+    isFavorite(item) {
+      return item?.viewer?.liked ? true : false
     },
-    handleLike(post) {
-      if (!post.viewer.liked) {
-        post.stats.likes++
-        post.viewer.liked = true
+    handleLike(item) {
+      if (!item.viewer.liked) {
+        item.stats.likes++
+        item.viewer.liked = true
       } else {
-        post.stats.likes--
-        post.viewer.liked = false
+        item.stats.likes--
+        item.viewer.liked = false
       }
     },
   },
