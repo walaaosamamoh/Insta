@@ -1,11 +1,11 @@
 <template>
   <div
     v-if="isOpen"
-    class="fixed inset-0 z-50 flex items-end justify-center transition-opacity duration-300"
+    class="fixed inset-0 z-50 flex items-end justify-center md:justify-end transition-opacity duration-300"
     @click.self="$emit('close')"
   >
     <div
-      class="bg-white w-full rounded-t-4xl h-full flex flex-col justify-between animate-slide-up"
+      class="bg-white w-full md:w-90 md:m-10 md:pb-8 md:rounded-4xl md:h-150 md:shadow-[0_0_30px_rgba(0,0,0,0.16)] md:bottom-6 rounded-t-4xl h-full flex flex-col justify-between animate-slide-up md:animate-fade-in"
     >
       <div
         class="flex justify-center py-3 border-b border-gray-100 cursor-pointer"
@@ -17,7 +17,7 @@
       <div class="text-center py-2 font-semibold border-b border-gray-100 text-sm">Comments</div>
 
       <div class="flex-1 overflow-y-auto p-4 space-y-4">
-        <div v-for="comment in getCommentsByPostId(post.id)" :key="comment.id">
+        <div v-for="comment in getCommentsByPostId(item.id)" :key="comment.id">
           <div class="flex gap-3 text-sm">
             <!-- user pic -->
             <div class="w-8 h-8 rounded-full bg-gray-200 overflow-hidden shrink-0">
@@ -28,7 +28,7 @@
               <span class="font-semibold block text-xs">{{ comment.user.username }}</span>
               <div class="flex items-center justify-between">
                 <p class="text-gray-800 mt-0.5">{{ comment.text }}</p>
-                <LikeSvg class="w-4 h-4" />
+                <LikeSvg class="w-4 h-4" :item="comment" />
               </div>
               <!-- reply -->
               <div>
@@ -106,7 +106,7 @@ export default {
     profileNav,
     LikeSvg,
   },
-  props: ['isOpen', 'post'],
+  props: ['isOpen', 'item'],
   computed: {
     ...mapState(useCommentsStore, ['getCommentsByPostId']),
   },
@@ -136,7 +136,22 @@ export default {
   }
 }
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
 .animate-slide-up {
   animation: slideUp 0.3s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
 }
 </style>

@@ -57,7 +57,7 @@
       </div>
     </div>
     <div>
-      <CommentsSec :post="selectedPost" :isOpen="isOpen" @close="isOpen = false" />
+      <CommentsSec :item="selectedPost" :isOpen="isOpen" @close="isOpen = false" />
     </div>
   </div>
 </template>
@@ -81,8 +81,6 @@ export default {
   data() {
     return {
       modules: [Pagination, Mousewheel, Keyboard],
-      liked: false,
-      reposted: false,
       isOpen: false,
       selectedPost: null,
     }
@@ -91,7 +89,6 @@ export default {
     ProfilePic,
     Swiper,
     SwiperSlide,
-
     VerifiedSvg,
     CommentsSec,
     PostReacts,
@@ -105,9 +102,6 @@ export default {
       this.selectedPost = post
       console.log(`The value received is : ${this.selectedPost}`)
     },
-  },
-  created() {
-    console.log('the length of posts is : ', this.posts.length)
   },
 }
 </script>

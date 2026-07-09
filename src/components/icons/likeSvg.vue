@@ -1,7 +1,7 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    :fill="isFavorite(item) ? 'red' : 'white'"
+    :fill="isFavorite(item) ? 'red' : 'none'"
     viewBox="0 0 24 24"
     stroke-width="1.5"
     :stroke="isFavorite(item) ? 'red' : 'currentColor'"

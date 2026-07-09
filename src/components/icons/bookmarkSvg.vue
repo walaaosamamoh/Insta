@@ -1,7 +1,7 @@
 <template>
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    :fill="isBookmarked(item) ? 'black' : 'white'"
+    :fill="isBookmarked(item) && !reels ? 'black' : isBookmarked(item) && reels ? 'white' : 'none'"
     viewBox="0 0 24 24"
     stroke-width="1.5"
     stroke="currentColor"
@@ -21,6 +21,6 @@ import BookmarkMixin from '@/mixins/BookmarkMixin'
 export default {
   mixins: [BookmarkMixin],
 
-  props: ['item'],
+  props: ['item', 'reels'],
 }
 </script>

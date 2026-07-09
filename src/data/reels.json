@@ -8,7 +8,7 @@
       "avatar": "/images/users/emma.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel001.mp4",
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
     "thumbnail": "/images/reels/reel001.jpg",
     "caption": "Morning coffee and peaceful vibes ☕",
     "music": {

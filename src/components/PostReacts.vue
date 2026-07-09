@@ -1,32 +1,34 @@
 <template>
-  <div>
-    <div class="flex items-center gap-3 p-2">
-      <div class="flex">
-        <div>
-          <LikeSvg :item="item" />
-        </div>
-        <span class="text-sm font-semibold">{{ item.stats.likes }}</span>
+  <div class="flex items-center gap-3 p-2" :class="reels ? 'flex-col' : ''">
+    <div class="flex" :class="reels ? 'flex-col justify-center items-center' : ''">
+      <div>
+        <LikeSvg :item="item" />
       </div>
-      <div class="flex">
-        <div @click="$emit('openComments', item)">
-          <CommentSvg />
-        </div>
-        <span class="text-sm font-semibold">{{ item.stats.comments }}</span>
+      <span class="text-sm font-semibold">{{ item.stats.likes }}</span>
+    </div>
+    <div class="flex" :class="reels ? 'flex-col justify-center items-center' : ''">
+      <div @click="$emit('openComments', item)">
+        <CommentSvg />
       </div>
-      <div class="flex">
-        <div>
-          <RepostSvg :item="item" />
-        </div>
-        <span class="text-sm font-semibold">{{ item.stats.reposts }}</span>
+      <span class="text-sm font-semibold">{{ item.stats.comments }}</span>
+    </div>
+    <div class="flex" :class="reels ? 'flex-col justify-center items-center' : ''">
+      <div>
+        <RepostSvg :item="item" />
       </div>
-      <div class="flex">
-        <div>
-          <ShareSvg :item="item" />
-        </div>
-        <span class="text-sm font-semibold">{{ item.stats.shares }}</span>
+      <span class="text-sm font-semibold">{{ item.stats.reposts }}</span>
+    </div>
+    <div class="flex" :class="reels ? 'flex-col justify-center items-center' : ''">
+      <div>
+        <ShareSvg :item="item" />
       </div>
-
-      <BookmarkSvg :item="item" class="ml-auto" />
+      <span class="text-sm font-semibold">{{ item.stats.shares }}</span>
+    </div>
+    <div :class="reels ? 'flex-col justify-center items-center' : 'ml-auto'">
+      <div>
+        <BookmarkSvg :item="item" :reels="reels" />
+      </div>
+      <span v-show="reels" class="text-sm font-semibold">{{ item.stats.bookmarks }}</span>
     </div>
   </div>
 </template>
@@ -38,7 +40,7 @@ import RepostSvg from '@/components/icons/RepostSvg.vue'
 import ShareSvg from '@/components/icons/shareSvg.vue'
 import BookmarkSvg from '@/components/icons/bookmarkSvg.vue'
 export default {
-  props: ['item'],
+  props: ['item', 'reels'],
   components: {
     LikeSvg,
     CommentSvg,
