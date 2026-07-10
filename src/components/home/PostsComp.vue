@@ -1,9 +1,9 @@
 <template>
   <div class="overflow-y-auto">
     <div v-for="post in posts" :key="post.id">
-      <div class="p-2">
-        <div class="flex items-center gap-2">
-          <ProfilePic :user="post.user" />
+      <div class="p-2 mb-4">
+        <div class="flex items-center gap-2 mb-2">
+          <ProfilePic :user="post.user" class="md:w-12 h-12" />
           <div class="flex flex-col">
             <div class="flex items-center gap-1">
               <h2 class="font-semibold text-sm">{{ post.user.username }}</h2>
@@ -22,7 +22,7 @@
             class="mySwiper"
           >
             <SwiperSlide v-for="item in post.media" :key="item.url">
-              <div class="h-96 overflow-hidden">
+              <div class="h-96 md:h-150 overflow-hidden">
                 <img
                   v-if="item.type === 'image'"
                   :src="item.url"

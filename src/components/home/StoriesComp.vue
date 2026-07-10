@@ -1,7 +1,7 @@
 <template>
-  <div class="flex overflow-auto scroll-bar">
+  <div class="flex overflow-auto scroll-bar md:w-3xl md:translate-x-[-50%] md:ml-[50%]">
     <!-- my story -->
-    <div class="py-4 px-2 flex flex-col items-center gap-2">
+    <div class="py-4 px-2 flex flex-col items-center gap-2 cursor-pointer">
       <div class="relative w-fit">
         <div
           class="rounded-full p-0.5"
@@ -11,7 +11,7 @@
               : 'bg-gray-300'
           "
         >
-          <ProfilePic :user="currentUser" class="w-14 h-14 border-2 border-white" />
+          <ProfilePic :user="currentUser" class="w-14 h-14 md:w-20 md:h-20 border-2 border-white" />
         </div>
         <plusSvg
           v-if="myStories?.length === 0"
@@ -27,14 +27,14 @@
       class="py-4 px-2 flex flex-col items-center gap-2"
     >
       <div
-        class="rounded-full p-0.5"
+        class="rounded-full p-0.5 cursor-pointer"
         :class="
           story.hasUnviewed
             ? 'bg-linear-to-tr from-yellow-500 via-pink-500 to-purple-600'
             : 'bg-gray-300'
         "
       >
-        <div class="rounded-full border-2 border-white overflow-hidden w-14 h-14">
+        <div class="rounded-full border-2 border-white overflow-hidden w-14 h-14 md:w-20 md:h-20">
           <img
             :src="story.avatar"
             :alt="story.username"
