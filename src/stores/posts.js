@@ -8,12 +8,14 @@ export const usePostsStore = defineStore('postsStore', {
   }),
 
   getters: {
-    getLikesCount: (state) => {
+    getUserPosts: (state) => {
       return (id) => {
-        const post = state.posts.find((post) => post.id == id)
-        state.likesCount = post.stats.likes
-        return post.stats.likes
+        return state.posts.filter((post) => post.user.id == id)
       }
+    },
+
+    getUserReposts: (state) => {
+      return state.posts.filter((post) => post.viewer.reposted == true)
     },
   },
 })

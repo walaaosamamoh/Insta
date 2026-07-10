@@ -1,6 +1,6 @@
 <template>
   <div
-    class="h-[calc(100vh-48px)] md:h-screen md:my-6 md:rounded-2xl overflow-hidden flex-1 w-full bg-black"
+    class="h-[calc(100vh-56px)] md:h-screen md:my-6 md:rounded-2xl overflow-hidden flex-1 w-full bg-black"
   >
     <swiper
       :direction="'vertical'"

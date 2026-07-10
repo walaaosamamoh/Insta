@@ -32,7 +32,7 @@
     "viewer": {
       "liked": true,
       "bookmarked": false,
-      "reposted": false,
+      "reposted": true,
       "following": true
     },
     "createdAt": "2026-07-01T10:30:00Z"

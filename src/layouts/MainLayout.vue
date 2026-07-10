@@ -1,12 +1,12 @@
 <template>
-  <div class="h-screen flex flex-col md:grid md:grid-cols-[80px_1fr]">
-    <div class="flex-1 min-h-0 md:col-start-2 h-[calc(100vh-48px)] md:h-screen">
-      <div class="md:max-w-xl mx-auto h-full">
+  <div class="min-h-screen flex flex-col md:grid md:grid-cols-[80px_1fr]">
+    <div class="flex-1 min-h-0 md:col-start-2 md:h-screen">
+      <div class="md:max-w-xl mx-auto h-full relative">
         <router-view :key="$route.fullPath" />
       </div>
     </div>
     <nav
-      class="fixed z-20 h-12 bg-white bottom-0 left-0 right-0 shrink-0 flex flex-row justify-around md:flex-col md:gap-8 md:fixed md:left-0 md:top-0 md:w-20 md:h-screen px-6 py-4 border-t border-t-gray-200"
+      class="sticky inset-0 z-20 h-14 bg-white flex flex-row justify-around md:flex-col md:gap-8 md:fixed md:left-0 md:top-0 md:w-20 md:h-screen px-6 py-4 border-t border-t-gray-200"
     >
       <div v-for="nav in menu" :key="nav.title">
         <router-link :to="nav.to" v-slot="{ isExactActive }">
