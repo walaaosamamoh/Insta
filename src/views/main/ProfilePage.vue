@@ -14,9 +14,6 @@
     <div class="flex items-center gap-8 p-6">
       <div class="relative">
         <profile-nav class="w-20 h-20 md:w-40 md:h-40" />
-        <plusSvg
-          class="absolute bottom-0 -right-2 md:right-6 w-6 h-6 bg-black text-white rounded-full border-3 border-white"
-        />
       </div>
       <div class="flex-1">
         <h2 class="font-semibold">{{ currentUser.displayName }}</h2>
@@ -64,7 +61,7 @@
           <component
             :is="activeTab"
             :id="currentUser.id"
-            class="grid grid-cols-3 gap-0.5 md:grid-cols-4 md:w-4xl md:absolute md:left-[50%] md:translate-x-[-50%] md:rounded-md md:overflow-hidden"
+            class="grid grid-cols-3 gap-0.5 lg:grid-cols-4 lg:min-w-4xl lg:absolute lg:left-[50%] lg:translate-x-[-50%] lg:rounded-md lg:overflow-hidden"
           />
         </keep-alive>
       </div>
