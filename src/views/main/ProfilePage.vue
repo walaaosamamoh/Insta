@@ -89,7 +89,6 @@ import GridSvg from '@/components/icons/GridSvg.vue'
 import MenubarSvg from '@/components/icons/MenubarSvg.vue'
 import PlusSvg from '@/components/icons/plusSvg.vue'
 import ReelsSvg from '@/components/icons/reelsSvg.vue'
-import RepostSvg from '@/components/icons/RepostSvg.vue'
 import TagSvg from '@/components/icons/TagSvg.vue'
 import VerifiedSvg from '@/components/icons/verifiedSvg.vue'
 import UserPosts from '@/components/profile/UserPosts.vue'
@@ -99,7 +98,7 @@ import UserTagged from '@/components/profile/UserTagged.vue'
 import profileNav from '@/components/profileNav.vue'
 import { useAuthStore } from '@/stores/auth'
 import { mapActions, mapState } from 'pinia'
-
+import RepostIcon from '@/components/icons/RepostIcon.vue'
 export default {
   data() {
     return {
@@ -112,13 +111,13 @@ export default {
     profileNav,
     VerifiedSvg,
     ReelsSvg,
-    RepostSvg,
     GridSvg,
     TagSvg,
     UserPosts,
     UserReels,
     UserReposts,
     UserTagged,
+    RepostIcon,
   },
   data() {
     return {
@@ -126,7 +125,7 @@ export default {
       tabs: [
         { id: 1, icon: 'GridSvg', component: 'UserPosts' },
         { id: 2, icon: 'ReelsSvg', component: 'UserReels' },
-        { id: 3, icon: 'RepostSvg', component: 'UserReposts' },
+        { id: 3, icon: 'RepostIcon', component: 'UserReposts' },
         { id: 4, icon: 'TagSvg', component: 'UserTagged' },
       ],
     }

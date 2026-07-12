@@ -14,7 +14,7 @@
     </div>
     <div class="flex" :class="reels ? 'flex-col justify-center items-center' : ''">
       <div>
-        <RepostSvg :item="item" />
+        <repost-icon :item="item" />
       </div>
       <span class="text-sm font-semibold">{{ item.stats.reposts }}</span>
     </div>
@@ -38,15 +38,15 @@ import LikeSvg from '@/components/icons/likeSvg.vue'
 import CommentSvg from '@/components/icons/commentSvg.vue'
 import ShareSvg from '@/components/icons/shareSvg.vue'
 import BookmarkSvg from '@/components/icons/bookmarkSvg.vue'
-import RepostSvg from '@components/icons/RepostSvg.vue'
+import RepostIcon from './icons/RepostIcon.vue'
 export default {
   props: ['item', 'reels'],
   components: {
     LikeSvg,
     CommentSvg,
-    RepostSvg,
     ShareSvg,
     BookmarkSvg,
+    RepostIcon,
   },
 }
 </script>
