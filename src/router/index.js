@@ -16,3 +16,11 @@ const router = createRouter({
 })
 
 export default router
+
+router.beforeEach((to, from) => {
+  const isAuthenticated = localStorage.getItem('user')
+
+  if (to.meta.requiresAuth && !isAuthenticated) {
+    return { name: 'login' }
+  }
+})

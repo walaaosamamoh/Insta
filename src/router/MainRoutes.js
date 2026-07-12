@@ -1,8 +1,8 @@
 export default {
   path: '/',
   meta: {
-    auth: true,
     layout: 'default',
+    requiresAuth: true,
   },
   children: [
     {
