@@ -40,7 +40,7 @@
       "avatar": "/images/users/john.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel002.mp4",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
     "thumbnail": "/images/reels/reel002.jpg",
     "caption": "Sunrise above the clouds 🌄",
     "music": {
@@ -72,7 +72,7 @@
       "avatar": "/images/users/olivia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel003.mp4",
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
     "thumbnail": "/images/reels/reel003.jpg",
     "caption": "Best sushi I've ever had 🍣",
     "music": {
@@ -104,7 +104,7 @@
       "avatar": "/images/users/david.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel004.mp4",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "thumbnail": "/images/reels/reel004.jpg",
     "caption": "My VS Code setup in 30 seconds 💻",
     "music": {
@@ -136,7 +136,7 @@
       "avatar": "/images/users/mia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel005.mp4",
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
     "thumbnail": "/images/reels/reel005.jpg",
     "caption": "5-minute summer makeup ☀️",
     "music": {
@@ -168,7 +168,7 @@
       "avatar": "/images/users/alex.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel006.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "thumbnail": "/images/reels/reel006.jpg",
     "caption": "Shoulder workout 🔥",
     "music": {
@@ -200,7 +200,7 @@
       "avatar": "/images/users/noah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel007.mp4",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "thumbnail": "/images/reels/reel007.jpg",
     "caption": "The perfect waterfall shot 📷",
     "music": {
@@ -232,7 +232,7 @@
       "avatar": "/images/users/lucy.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel008.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "thumbnail": "/images/reels/reel008.jpg",
     "caption": "3 outfits, 30 seconds 👗",
     "music": {
@@ -264,7 +264,7 @@
       "avatar": "/images/users/sarah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel009.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "thumbnail": "/images/reels/reel009.jpg",
     "caption": "Forest sounds 🌲🍃",
     "music": {
@@ -296,7 +296,7 @@
       "avatar": "/images/users/emma.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel010.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "thumbnail": "/images/reels/reel010.jpg",
     "caption": "A day in my life 🤍",
     "music": {
@@ -328,7 +328,7 @@
       "avatar": "/images/users/olivia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel011.mp4",
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
     "thumbnail": "/images/reels/reel011.jpg",
     "caption": "Sunset dinner by the beach 🌅🍽️",
     "music": {
@@ -360,7 +360,7 @@
       "avatar": "/images/users/john.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel012.mp4",
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
     "thumbnail": "/images/reels/reel012.jpg",
     "caption": "Flying over the Alps ✈️🏔️",
     "music": {
@@ -392,7 +392,7 @@
       "avatar": "/images/users/mia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel013.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "thumbnail": "/images/reels/reel013.jpg",
     "caption": "Easy everyday makeup 💄",
     "music": {
@@ -424,7 +424,7 @@
       "avatar": "/images/users/david.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel014.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "thumbnail": "/images/reels/reel014.jpg",
     "caption": "React tips you should know ⚛️",
     "music": {
@@ -456,7 +456,7 @@
       "avatar": "/images/users/emma.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel015.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "thumbnail": "/images/reels/reel015.jpg",
     "caption": "A quiet afternoon in the countryside 🌼",
     "music": {
@@ -488,7 +488,7 @@
       "avatar": "/images/users/noah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel016.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "thumbnail": "/images/reels/reel016.jpg",
     "caption": "Capturing the perfect waterfall 📸",
     "music": {
@@ -520,7 +520,7 @@
       "avatar": "/images/users/alex.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel017.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "thumbnail": "/images/reels/reel017.jpg",
     "caption": "Leg day never gets easier 🏋️",
     "music": {
@@ -552,7 +552,7 @@
       "avatar": "/images/users/lucy.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel018.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "thumbnail": "/images/reels/reel018.jpg",
     "caption": "Neutral outfits for every occasion 🤍",
     "music": {
@@ -584,7 +584,7 @@
       "avatar": "/images/users/sarah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel019.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "thumbnail": "/images/reels/reel019.jpg",
     "caption": "A peaceful walk through the forest 🌲",
     "music": {
@@ -616,7 +616,7 @@
       "avatar": "/images/users/olivia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel020.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "thumbnail": "/images/reels/reel020.jpg",
     "caption": "One day in Tokyo 🇯🇵✨",
     "music": {
@@ -648,7 +648,7 @@
       "avatar": "/images/users/john.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel021.mp4",
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
     "thumbnail": "/images/reels/reel021.jpg",
     "caption": "Sunrise from the mountain summit 🌄",
     "music": {
@@ -680,7 +680,7 @@
       "avatar": "/images/users/emma.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel022.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "thumbnail": "/images/reels/reel022.jpg",
     "caption": "Bookstore mornings are the best 📚",
     "music": {
@@ -712,7 +712,7 @@
       "avatar": "/images/users/mia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel023.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "thumbnail": "/images/reels/reel023.jpg",
     "caption": "Night skincare routine 🌙",
     "music": {
@@ -744,7 +744,7 @@
       "avatar": "/images/users/olivia.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel024.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "thumbnail": "/images/reels/reel024.jpg",
     "caption": "Trying every dessert at this café 🍰",
     "music": {
@@ -776,7 +776,7 @@
       "avatar": "/images/users/alex.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel025.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "thumbnail": "/images/reels/reel025.jpg",
     "caption": "Back workout you should try 💪",
     "music": {
@@ -808,7 +808,7 @@
       "avatar": "/images/users/noah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel026.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "thumbnail": "/images/reels/reel026.jpg",
     "caption": "Wildlife moments you can't plan 🦌",
     "music": {
@@ -840,7 +840,7 @@
       "avatar": "/images/users/david.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel027.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "thumbnail": "/images/reels/reel027.jpg",
     "caption": "JavaScript tricks every developer should know ⚡",
     "music": {
@@ -872,7 +872,7 @@
       "avatar": "/images/users/lucy.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel028.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "thumbnail": "/images/reels/reel028.jpg",
     "caption": "Three summer outfits in under 30 seconds ☀️",
     "music": {
@@ -904,7 +904,7 @@
       "avatar": "/images/users/sarah.jpg",
       "verified": false
     },
-    "video": "/videos/reels/reel029.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "thumbnail": "/images/reels/reel029.jpg",
     "caption": "Camping under the stars ✨",
     "music": {
@@ -936,7 +936,7 @@
       "avatar": "/images/users/emma.jpg",
       "verified": true
     },
-    "video": "/videos/reels/reel030.mp4",
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "thumbnail": "/images/reels/reel030.jpg",
     "caption": "A perfect day from sunrise to sunset 🤍",
     "music": {

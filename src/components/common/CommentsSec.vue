@@ -28,10 +28,13 @@
               <span class="font-semibold block text-xs">{{ comment.user.username }}</span>
               <div class="flex items-center justify-between">
                 <p class="text-gray-800 mt-0.5">{{ comment.text }}</p>
-                <LikeSvg class="w-4 h-4" :item="comment" />
+                <div class="flex items-center gap-2">
+                  <span class="text-xs text-gray-500">{{ comment.stats.likes }} likes</span>
+                  <LikeSvg class="w-4 h-4" :item="comment" />
+                </div>
               </div>
               <!-- reply -->
-              <div>
+              <div class="mt-1">
                 <button class="text-gray-700 text-xs font-semibold">Reply</button>
               </div>
             </div>
@@ -59,7 +62,10 @@
                   <span class="font-semibold block text-xs">{{ reply.user.username }}</span>
                   <div class="flex items-center justify-between">
                     <p class="text-gray-800 mt-0.5">{{ reply.text }}</p>
-                    <LikeSvg class="w-4 h-4" />
+                    <div class="flex items-center gap-2">
+                      <span class="text-xs text-gray-500">{{ reply.stats.likes }} likes</span>
+                      <LikeSvg class="w-4 h-4" :item="reply" />
+                    </div>
                   </div>
                   <!-- reply -->
                   <div>
