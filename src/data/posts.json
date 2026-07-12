@@ -5,7 +5,7 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "https://i.pravatar.cc/150?img=6",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "caption": "Beautiful sunset over the city 🌅",
@@ -43,7 +43,7 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "https://i.pravatar.cc/150?img=8",
+      "avatar": "https://randomuser.me/api/portraits/women/34.jpg",
       "verified": false
     },
     "caption": "Morning walk in the forest 🌿",
@@ -77,7 +77,7 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "https://i.pravatar.cc/150?img=7",
+      "avatar": "https://randomuser.me/api/portraits/men/33.jpg",
       "verified": false
     },
     "caption": "Never skip leg day 💪",
@@ -111,7 +111,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "https://i.pravatar.cc/150?img=7",
+      "avatar": "https://randomuser.me/api/portraits/women/53.jpg",
       "verified": true
     },
     "caption": "Brunch with a view 🍳",
@@ -149,7 +149,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "https://i.pravatar.cc/150?img=7",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg",
       "verified": true
     },
     "caption": "Coffee first, everything else later ☕",
@@ -183,7 +183,7 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "https://i.pravatar.cc/600?img=6",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "caption": "Late night coding session 💻",

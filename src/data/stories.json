@@ -5,12 +5,12 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "https://i.pravatar.cc/150?img=6",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "https://i.pravatar.cc/600?img=55"
+      "url": "https://picsum.photos/seed/story001/1080/1920"
     },
     "viewCount": 812,
     "stats": {
@@ -29,12 +29,12 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "https://i.pravatar.cc/150?img=1",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story002.jpg"
+      "url": "https://picsum.photos/seed/story002/1080/1920"
     },
     "viewCount": 5481,
     "stats": {
@@ -53,12 +53,12 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "https://i.pravatar.cc/150?img=2",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story003.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     },
     "viewCount": 3924,
     "stats": {
@@ -77,12 +77,12 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "https://i.pravatar.cc/150?img=3",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story004.jpg"
+      "url": "https://picsum.photos/seed/story004/1080/1920"
     },
     "viewCount": 4688,
     "stats": {
@@ -101,12 +101,12 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "https://i.pravatar.cc/150?img=4",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story005.jpg"
+      "url": "https://picsum.photos/seed/story005/1080/1920"
     },
     "viewCount": 524,
     "stats": {
@@ -125,12 +125,12 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story006.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     "viewCount": 1268,
     "stats": {
@@ -149,12 +149,12 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story007.jpg"
+      "url": "https://picsum.photos/seed/story007/1080/1920"
     },
     "viewCount": 913,
     "stats": {
@@ -173,12 +173,12 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story008.jpg"
+      "url": "https://picsum.photos/seed/story008/1080/1920"
     },
     "viewCount": 748,
     "stats": {
@@ -197,12 +197,12 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story009.jpg"
+      "url": "https://picsum.photos/seed/story009/1080/1920"
     },
     "viewCount": 1034,
     "stats": {
@@ -221,12 +221,12 @@
       "id": "user_007",
       "username": "michael",
       "displayName": "Michael Scott",
-      "avatar": "/images/users/michael.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
       "verified": false
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story010.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     },
     "viewCount": 682,
     "stats": {
@@ -245,12 +245,12 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story011.jpg"
+      "url": "https://picsum.photos/seed/story011/1080/1920"
     },
     "viewCount": 5634,
     "stats": {
@@ -269,12 +269,12 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "media": {
       "type": "video",
-      "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
     },
     "viewCount": 1386,
     "stats": {
@@ -293,12 +293,12 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story013.jpg"
+      "url": "https://picsum.photos/seed/story013/1080/1920"
     },
     "viewCount": 4217,
     "stats": {
@@ -317,12 +317,12 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story014.jpg"
+      "url": "https://picsum.photos/seed/story014/1080/1920"
     },
     "viewCount": 1213,
     "stats": {
@@ -341,12 +341,12 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "/images/users/mia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story015.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
     },
     "viewCount": 4978,
     "stats": {
@@ -365,12 +365,12 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story016.jpg"
+      "url": "https://picsum.photos/seed/story016/1080/1920"
     },
     "viewCount": 864,
     "stats": {
@@ -389,12 +389,12 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story017.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
     },
     "viewCount": 792,
     "stats": {
@@ -413,12 +413,12 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story018.jpg"
+      "url": "https://picsum.photos/seed/story018/1080/1920"
     },
     "viewCount": 1182,
     "stats": {
@@ -437,12 +437,12 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story019.jpg"
+      "url": "https://picsum.photos/seed/story019/1080/1920"
     },
     "viewCount": 608,
     "stats": {
@@ -461,12 +461,12 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story020.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
     },
     "viewCount": 5916,
     "stats": {
@@ -485,12 +485,12 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story021.jpg"
+      "url": "https://picsum.photos/seed/story021/1080/1920"
     },
     "viewCount": 4385,
     "stats": {
@@ -509,12 +509,12 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "https://i.pravatar.cc/600?img=57"
+      "url": "https://picsum.photos/seed/story022/1080/1920"
     },
     "viewCount": 1527,
     "stats": {
@@ -533,12 +533,12 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "/images/users/mia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story023.jpg"
+      "url": "https://picsum.photos/seed/story023/1080/1920"
     },
     "viewCount": 5126,
     "stats": {
@@ -557,12 +557,12 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story024.jpg"
+      "url": "https://picsum.photos/seed/story024/1080/1920"
     },
     "viewCount": 841,
     "stats": {
@@ -581,12 +581,12 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story025.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
     },
     "viewCount": 1369,
     "stats": {
@@ -605,12 +605,12 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story026.jpg"
+      "url": "https://picsum.photos/seed/story026/1080/1920"
     },
     "viewCount": 6082,
     "stats": {
@@ -629,12 +629,12 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story027.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
     },
     "viewCount": 935,
     "stats": {
@@ -653,12 +653,12 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story028.jpg"
+      "url": "https://picsum.photos/seed/story028/1080/1920"
     },
     "viewCount": 653,
     "stats": {
@@ -677,12 +677,12 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story029.jpg"
+      "url": "https://picsum.photos/seed/story029/1080/1920"
     },
     "viewCount": 1248,
     "stats": {
@@ -701,12 +701,12 @@
       "id": "user_007",
       "username": "michael",
       "displayName": "Michael Scott",
-      "avatar": "/images/users/michael.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
       "verified": false
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story030.jpg"
+      "url": "https://picsum.photos/seed/story030/1080/1920"
     },
     "viewCount": 714,
     "stats": {

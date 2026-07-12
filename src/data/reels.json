@@ -5,7 +5,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
@@ -37,7 +37,7 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "video": "https://www.w3schools.com/html/mov_bbb.mp4",
@@ -69,7 +69,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
@@ -101,7 +101,7 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
@@ -133,7 +133,7 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "/images/users/mia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
@@ -165,7 +165,7 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
@@ -197,7 +197,7 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
@@ -229,7 +229,7 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
@@ -261,7 +261,7 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
@@ -293,7 +293,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
@@ -325,7 +325,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
@@ -357,7 +357,7 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
@@ -389,7 +389,7 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "/images/users/mia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
@@ -421,7 +421,7 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
@@ -453,7 +453,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
@@ -485,7 +485,7 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
@@ -517,7 +517,7 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
@@ -549,7 +549,7 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
@@ -581,7 +581,7 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
@@ -613,7 +613,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
@@ -645,7 +645,7 @@
       "id": "user_001",
       "username": "john_doe",
       "displayName": "John Doe",
-      "avatar": "/images/users/john.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
       "verified": true
     },
     "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
@@ -677,7 +677,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -709,7 +709,7 @@
       "id": "user_010",
       "username": "mia",
       "displayName": "Mia Davis",
-      "avatar": "/images/users/mia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
@@ -741,7 +741,7 @@
       "id": "user_004",
       "username": "olivia",
       "displayName": "Olivia Brown",
-      "avatar": "/images/users/olivia.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
@@ -773,7 +773,7 @@
       "id": "user_003",
       "username": "alex",
       "displayName": "Alex Johnson",
-      "avatar": "/images/users/alex.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
@@ -805,7 +805,7 @@
       "id": "user_009",
       "username": "noah",
       "displayName": "Noah Miller",
-      "avatar": "/images/users/noah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
@@ -837,7 +837,7 @@
       "id": "user_006",
       "username": "david",
       "displayName": "David Lee",
-      "avatar": "/images/users/david.jpg",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
@@ -869,7 +869,7 @@
       "id": "user_008",
       "username": "lucy",
       "displayName": "Lucy Adams",
-      "avatar": "/images/users/lucy.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
@@ -901,7 +901,7 @@
       "id": "user_002",
       "username": "sarah",
       "displayName": "Sarah Wilson",
-      "avatar": "/images/users/sarah.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
       "verified": false
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
@@ -933,7 +933,7 @@
       "id": "user_005",
       "username": "emma",
       "displayName": "Emma Watson",
-      "avatar": "/images/users/emma.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
       "verified": true
     },
     "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
