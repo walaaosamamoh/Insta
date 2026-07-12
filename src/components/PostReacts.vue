@@ -36,9 +36,9 @@
 <script>
 import LikeSvg from '@/components/icons/likeSvg.vue'
 import CommentSvg from '@/components/icons/commentSvg.vue'
-import RepostSvg from '@/components/icons/RepostSvg.vue'
 import ShareSvg from '@/components/icons/shareSvg.vue'
 import BookmarkSvg from '@/components/icons/bookmarkSvg.vue'
+import RepostSvg from '@components/icons/RepostSvg.vue'
 export default {
   props: ['item', 'reels'],
   components: {
