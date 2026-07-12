@@ -1,0 +1,3470 @@
+[
+  {
+    "id": "comment_001",
+    "postId": "post_001",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This look is absolutely stunning 🔥",
+    "likes": 84,
+    "createdAt": "2026-05-13T10:05:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 84,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_002",
+    "postId": "post_002",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "That café looks so cozy ☕",
+    "likes": 32,
+    "createdAt": "2026-05-12T12:10:00Z",
+    "replies": [
+      {
+        "id": "reply_001",
+        "user": {
+          "id": "user_005",
+          "username": "emma",
+          "displayName": "Emma Watson",
+          "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+        },
+        "text": "It really is, I go there almost every morning!",
+        "likes": 18,
+        "createdAt": "2026-05-12T12:20:00Z",
+        "stats": {
+          "likes": 18,
+          "comments": 0,
+          "shares": 0,
+          "reposts": 0,
+          "bookmarks": 0,
+          "views": 0
+        },
+        "viewer": {
+          "liked": false,
+          "bookmarked": false,
+          "reposted": false,
+          "following": false
+        }
+      }
+    ],
+    "stats": {
+      "likes": 32,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_003",
+    "postId": "post_001",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "I need to visit Maldives ASAP 😍",
+    "likes": 145,
+    "createdAt": "2026-05-11T07:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 145,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_004",
+    "postId": "post_001",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Nice work! What stack did you use?",
+    "likes": 12,
+    "createdAt": "2026-05-10T23:00:00Z",
+    "replies": [
+      {
+        "id": "reply_002",
+        "user": {
+          "id": "user_006",
+          "username": "david",
+          "displayName": "David Lee",
+          "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+        },
+        "text": "React + TypeScript + Vite",
+        "likes": 9,
+        "createdAt": "2026-05-10T23:10:00Z",
+        "stats": {
+          "likes": 9,
+          "comments": 0,
+          "shares": 0,
+          "reposts": 0,
+          "bookmarks": 0,
+          "views": 0
+        },
+        "viewer": {
+          "liked": false,
+          "bookmarked": false,
+          "reposted": false,
+          "following": false
+        }
+      }
+    ],
+    "stats": {
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_005",
+    "postId": "post_001",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "This fog shot is magical 🌫️",
+    "likes": 41,
+    "createdAt": "2026-05-10T08:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 41,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_006",
+    "postId": "post_066",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "That breakfast view is unreal 🏔️",
+    "likes": 67,
+    "createdAt": "2026-05-09T09:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 67,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_007",
+    "postId": "post_067",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "I love peaceful forest vibes 🌲",
+    "likes": 23,
+    "createdAt": "2026-05-08T16:40:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 23,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_008",
+    "postId": "post_008",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Minimal looks always hit different 🤍",
+    "likes": 58,
+    "createdAt": "2026-05-08T12:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 58,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_009",
+    "postId": "post_002",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Recovery is underrated but so important 💪",
+    "likes": 102,
+    "createdAt": "2026-05-07T19:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 102,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_010",
+    "postId": "post_003",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "Golden hour with friends is unbeatable 💛",
+    "likes": 89,
+    "createdAt": "2026-05-06T20:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 89,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_011",
+    "postId": "reel_005",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "This makeup routine is so smooth ✨",
+    "likes": 210,
+    "createdAt": "2026-06-28T11:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 210,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_012",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "These React tips saved me so much time ⚛️",
+    "likes": 132,
+    "createdAt": "2026-06-22T22:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 132,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_013",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Tokyo looks insane at night 🤯",
+    "likes": 190,
+    "createdAt": "2026-06-19T19:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 190,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_014",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "This feels so real and relaxing 🤍",
+    "likes": 175,
+    "createdAt": "2026-06-24T17:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 175,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_015",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Now I’m hungry 🍣",
+    "likes": 88,
+    "createdAt": "2026-06-29T13:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 88,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_016",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "Leg day = pain but worth it 🏋️",
+    "likes": 144,
+    "createdAt": "2026-06-21T10:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 144,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_017",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Love these outfit combos 👗",
+    "likes": 121,
+    "createdAt": "2026-06-15T16:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 121,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_018",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Nature content always wins 🌿",
+    "likes": 201,
+    "createdAt": "2026-06-16T17:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 201,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_019",
+    "postId": "reel_005",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Clean explanation, super helpful ⚡",
+    "likes": 96,
+    "createdAt": "2026-06-16T09:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 96,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_020",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This feels like a movie montage 🎬",
+    "likes": 310,
+    "createdAt": "2026-06-14T20:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 310,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_021",
+    "postId": "post_007",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Your style keeps getting better every time 🔥",
+    "likes": 56,
+    "createdAt": "2026-05-13T11:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 56,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_022",
+    "postId": "post_009",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "The lighting in this is perfect ✨",
+    "likes": 41,
+    "createdAt": "2026-05-13T11:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 41,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_023",
+    "postId": "post_002",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "I need that café in my life ☕",
+    "likes": 132,
+    "createdAt": "2026-05-12T13:05:00Z",
+    "replies": [
+      {
+        "id": "reply_003",
+        "user": {
+          "id": "user_005",
+          "username": "emma",
+          "displayName": "Emma Watson",
+          "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+        },
+        "text": "It’s in London, highly recommend it!",
+        "likes": 27,
+        "createdAt": "2026-05-12T13:20:00Z",
+        "stats": {
+          "likes": 27,
+          "comments": 0,
+          "shares": 0,
+          "reposts": 0,
+          "bookmarks": 0,
+          "views": 0
+        },
+        "viewer": {
+          "liked": false,
+          "bookmarked": false,
+          "reposted": false,
+          "following": false
+        }
+      }
+    ],
+    "stats": {
+      "likes": 132,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_024",
+    "postId": "post_009",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "The Maldives shots never disappoint 🌊",
+    "likes": 98,
+    "createdAt": "2026-05-11T07:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 98,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_025",
+    "postId": "post_006",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "Bucket list destination for sure 😍",
+    "likes": 76,
+    "createdAt": "2026-05-11T08:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 76,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_026",
+    "postId": "post_010",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Congrats on shipping 🚀 what’s next?",
+    "likes": 34,
+    "createdAt": "2026-05-10T23:45:00Z",
+    "replies": [
+      {
+        "id": "reply_004",
+        "user": {
+          "id": "user_006",
+          "username": "david",
+          "displayName": "David Lee",
+          "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+        },
+        "text": "Working on performance improvements now",
+        "likes": 19,
+        "createdAt": "2026-05-10T23:55:00Z",
+        "stats": {
+          "likes": 19,
+          "comments": 0,
+          "shares": 0,
+          "reposts": 0,
+          "bookmarks": 0,
+          "views": 0
+        },
+        "viewer": {
+          "liked": false,
+          "bookmarked": false,
+          "reposted": false,
+          "following": false
+        }
+      }
+    ],
+    "stats": {
+      "likes": 34,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_027",
+    "postId": "post_008",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Feels like a painting 🎨",
+    "likes": 61,
+    "createdAt": "2026-05-10T09:05:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 61,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_028",
+    "postId": "post_011",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "I love moody nature shots like this 🌫️",
+    "likes": 88,
+    "createdAt": "2026-05-10T09:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 88,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_029",
+    "postId": "post_015",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This breakfast looks like a dream 🏔️",
+    "likes": 110,
+    "createdAt": "2026-05-09T09:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 110,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_030",
+    "postId": "post_012",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Mountains + coffee = perfect combo ☕🏔️",
+    "likes": 72,
+    "createdAt": "2026-05-09T09:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 72,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_031",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "This reel is so calming ✨",
+    "likes": 210,
+    "createdAt": "2026-06-30T10:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 210,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_032",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "I want to fly like this someday ✈️",
+    "likes": 318,
+    "createdAt": "2026-06-29T19:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 318,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_033",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Tokyo food scenes are unbeatable 🍣",
+    "likes": 154,
+    "createdAt": "2026-06-29T12:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 154,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_034",
+    "postId": "reel_004",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Clean setup, very productive 💻",
+    "likes": 92,
+    "createdAt": "2026-06-28T22:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 92,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_035",
+    "postId": "reel_005",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Makeup goals 💄✨",
+    "likes": 241,
+    "createdAt": "2026-06-28T10:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 241,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_036",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "This workout looks intense 🔥",
+    "likes": 198,
+    "createdAt": "2026-06-27T17:40:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 198,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_037",
+    "postId": "reel_007",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "The waterfall shot is unreal 📸",
+    "likes": 143,
+    "createdAt": "2026-06-27T10:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 143,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_038",
+    "postId": "reel_008",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Love these outfit transitions 👗",
+    "likes": 167,
+    "createdAt": "2026-06-26T15:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 167,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_039",
+    "postId": "reel_009",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "So peaceful 🌲",
+    "likes": 88,
+    "createdAt": "2026-06-25T09:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 88,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_040",
+    "postId": "reel_010",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "This feels like a movie ending 🤍",
+    "likes": 402,
+    "createdAt": "2026-06-24T19:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 402,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_041",
+    "postId": "post_004",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "This looks so peaceful 🌲",
+    "likes": 64,
+    "createdAt": "2026-05-08T16:55:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 64,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_042",
+    "postId": "post_001",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Nature always resets the mind 🍃",
+    "likes": 38,
+    "createdAt": "2026-05-08T17:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 38,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_043",
+    "postId": "post_001",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Simple outfits are the best 🤍",
+    "likes": 119,
+    "createdAt": "2026-05-08T12:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 119,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_044",
+    "postId": "post_004",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Clean aesthetic 🔥",
+    "likes": 73,
+    "createdAt": "2026-05-08T13:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 73,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_045",
+    "postId": "post_001",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Recovery days matter more than people think 💪",
+    "likes": 96,
+    "createdAt": "2026-05-07T19:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 96,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_046",
+    "postId": "post_005",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Stretching saved my training routine 🧘",
+    "likes": 54,
+    "createdAt": "2026-05-07T19:35:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 54,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_047",
+    "postId": "post_016",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "This looks like a core memory 💛",
+    "likes": 142,
+    "createdAt": "2026-05-06T20:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 142,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_048",
+    "postId": "post_007",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "The vibe is perfect ✨",
+    "likes": 88,
+    "createdAt": "2026-05-06T20:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 88,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_049",
+    "postId": "reel_011",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "Beach sunsets never get old 🌅",
+    "likes": 201,
+    "createdAt": "2026-06-24T12:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 201,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_050",
+    "postId": "reel_012",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Flying over the Alps is a dream ✈️",
+    "likes": 183,
+    "createdAt": "2026-06-23T16:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 183,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_051",
+    "postId": "reel_013",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "This makeup tutorial is super clear 💄",
+    "likes": 221,
+    "createdAt": "2026-06-23T09:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 221,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_052",
+    "postId": "reel_014",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "React tips I actually use daily ⚛️",
+    "likes": 167,
+    "createdAt": "2026-06-22T21:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 167,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_053",
+    "postId": "reel_015",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "This countryside vibe is unreal 🌼",
+    "likes": 189,
+    "createdAt": "2026-06-22T14:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 189,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_054",
+    "postId": "reel_016",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Wildlife shots are always special 🦌",
+    "likes": 176,
+    "createdAt": "2026-06-21T18:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 176,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_055",
+    "postId": "reel_017",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Leg day pain is real 😭",
+    "likes": 134,
+    "createdAt": "2026-06-21T09:40:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 134,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_056",
+    "postId": "reel_018",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "These neutral tones are perfect 🤍",
+    "likes": 144,
+    "createdAt": "2026-06-20T15:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 144,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_057",
+    "postId": "reel_019",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "Forest walks clear the mind 🌲",
+    "likes": 97,
+    "createdAt": "2026-06-20T08:50:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 97,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_058",
+    "postId": "reel_020",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Tokyo nightlife hits different 🇯🇵",
+    "likes": 260,
+    "createdAt": "2026-06-19T18:55:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 260,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_059",
+    "postId": "reel_021",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "Mountain sunrises are unbeatable 🌄",
+    "likes": 174,
+    "createdAt": "2026-06-19T08:40:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 174,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_060",
+    "postId": "reel_022",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Bookstore mornings are pure peace 📚",
+    "likes": 233,
+    "createdAt": "2026-06-18T15:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 233,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_061",
+    "postId": "reel_023",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "This skincare routine looks so clean 🌙",
+    "likes": 214,
+    "createdAt": "2026-06-18T09:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 214,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_062",
+    "postId": "reel_023",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Night routines are underrated ✨",
+    "likes": 98,
+    "createdAt": "2026-06-18T09:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 98,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_063",
+    "postId": "reel_024",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Dessert tours are my weakness 🍰",
+    "likes": 187,
+    "createdAt": "2026-06-17T18:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 187,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_064",
+    "postId": "reel_024",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "I want every item on that table 😭",
+    "likes": 255,
+    "createdAt": "2026-06-17T18:35:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 255,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_065",
+    "postId": "reel_025",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Saving this workout 💪",
+    "likes": 143,
+    "createdAt": "2026-06-17T10:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 143,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_066",
+    "postId": "reel_025",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Simple but effective routine 🔥",
+    "likes": 118,
+    "createdAt": "2026-06-17T11:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 118,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_067",
+    "postId": "reel_026",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "Nature always heals 🌿",
+    "likes": 172,
+    "createdAt": "2026-06-16T17:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 172,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_068",
+    "postId": "reel_026",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "The deer shot is insane 🦌",
+    "likes": 131,
+    "createdAt": "2026-06-16T17:35:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 131,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_069",
+    "postId": "reel_027",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "Clean code explanations are rare ⚡",
+    "likes": 155,
+    "createdAt": "2026-06-16T09:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 155,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_070",
+    "postId": "reel_027",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Very beginner friendly 👍",
+    "likes": 144,
+    "createdAt": "2026-06-16T09:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 144,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_071",
+    "postId": "reel_028",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Outfit transitions are so satisfying 👗",
+    "likes": 199,
+    "createdAt": "2026-06-15T15:35:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 199,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_072",
+    "postId": "reel_028",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Need that first outfit 😍",
+    "likes": 182,
+    "createdAt": "2026-06-15T15:50:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 182,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_073",
+    "postId": "reel_029",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Camping under stars hits different ✨",
+    "likes": 133,
+    "createdAt": "2026-06-15T08:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 133,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_074",
+    "postId": "reel_029",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Perfect escape from city life 🏕️",
+    "likes": 121,
+    "createdAt": "2026-06-15T08:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 121,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_075",
+    "postId": "reel_030",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This montage feels cinematic 🎬",
+    "likes": 340,
+    "createdAt": "2026-06-14T19:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 340,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_076",
+    "postId": "reel_030",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Golden hour perfection 🤍",
+    "likes": 288,
+    "createdAt": "2026-06-14T20:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 288,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_077",
+    "postId": "post_002",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "You should do more posts like this 🔥",
+    "likes": 91,
+    "createdAt": "2026-05-13T11:50:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 91,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_078",
+    "postId": "post_002",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "The vibe here is unmatched ☕",
+    "likes": 76,
+    "createdAt": "2026-05-12T13:40:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 76,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_079",
+    "postId": "post_003",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "Travel goals right here 🌴",
+    "likes": 122,
+    "createdAt": "2026-05-11T08:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 122,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_080",
+    "postId": "post_005",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "Great execution on this project 💻",
+    "likes": 64,
+    "createdAt": "2026-05-10T23:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 64,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_081",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "This sunset color grading is perfect 🌅",
+    "likes": 221,
+    "createdAt": "2026-06-13T18:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 221,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_082",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Feels like a movie ending scene 🎬",
+    "likes": 176,
+    "createdAt": "2026-06-13T18:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 176,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_083",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Drone shots over cities never get old 🚁",
+    "likes": 189,
+    "createdAt": "2026-06-12T14:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 189,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_084",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "The perspective is insane 🤯",
+    "likes": 142,
+    "createdAt": "2026-06-12T14:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 142,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_085",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "This recipe looks delicious 😍",
+    "likes": 233,
+    "createdAt": "2026-06-11T12:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 233,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_086",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "I’m trying this tonight 🍝",
+    "likes": 190,
+    "createdAt": "2026-06-11T12:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 190,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_087",
+    "postId": "reel_004",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Workspace setup goals 💻",
+    "likes": 156,
+    "createdAt": "2026-06-10T09:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 156,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_088",
+    "postId": "reel_004",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "So clean and minimal 🤍",
+    "likes": 132,
+    "createdAt": "2026-06-10T09:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 132,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_089",
+    "postId": "reel_005",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "This transformation is insane 🔥",
+    "likes": 241,
+    "createdAt": "2026-06-09T17:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 241,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_090",
+    "postId": "reel_005",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Before/after hits hard 😮",
+    "likes": 278,
+    "createdAt": "2026-06-09T17:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 278,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_091",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This travel montage is beautiful ✈️",
+    "likes": 201,
+    "createdAt": "2026-06-08T15:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 201,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_092",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "Adding this to my travel bucket list 🌍",
+    "likes": 189,
+    "createdAt": "2026-06-08T15:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 189,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_093",
+    "postId": "reel_007",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Night city vibes are unmatched 🌃",
+    "likes": 165,
+    "createdAt": "2026-06-07T21:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 165,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_094",
+    "postId": "reel_007",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "The neon reflections are crazy good ✨",
+    "likes": 143,
+    "createdAt": "2026-06-07T21:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 143,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_095",
+    "postId": "reel_010",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "Love this street style look 👗",
+    "likes": 214,
+    "createdAt": "2026-06-06T13:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 214,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_096",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "Outfit on point 🔥",
+    "likes": 198,
+    "createdAt": "2026-06-06T13:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 198,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_097",
+    "postId": "reel_009",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "This beach walk feels so relaxing 🌊",
+    "likes": 177,
+    "createdAt": "2026-06-05T18:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 177,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_098",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "So calming and aesthetic 🤍",
+    "likes": 159,
+    "createdAt": "2026-06-05T18:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 159,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_099",
+    "postId": "reel_004",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "This finale montage is perfect 🤍",
+    "likes": 320,
+    "createdAt": "2026-06-04T20:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 320,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_100",
+    "postId": "reel_008",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "What a way to end the series 🎬",
+    "likes": 298,
+    "createdAt": "2026-06-04T20:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 298,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_101",
+    "postId": "post_007",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "This lighting is absolutely perfect ✨",
+    "likes": 84,
+    "createdAt": "2026-05-05T10:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 84,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_102",
+    "postId": "post_009",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "Golden tones hit different 🌅",
+    "likes": 73,
+    "createdAt": "2026-05-05T10:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 73,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_103",
+    "postId": "post_011",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "This composition is so clean 🤍",
+    "likes": 112,
+    "createdAt": "2026-05-05T11:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 112,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_104",
+    "postId": "post_006",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Super aesthetic shot 🔥",
+    "likes": 95,
+    "createdAt": "2026-05-05T11:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 95,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_105",
+    "postId": "post_003",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "This travel vibe is everything 🌍",
+    "likes": 143,
+    "createdAt": "2026-05-04T09:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 143,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_106",
+    "postId": "post_007",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "I need this trip ASAP ✈️",
+    "likes": 132,
+    "createdAt": "2026-05-04T09:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 132,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_107",
+    "postId": "post_020",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "Minimal setups always look premium 💻",
+    "likes": 88,
+    "createdAt": "2026-05-04T13:10:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 88,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_108",
+    "postId": "post_017",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "So clean and calming 🤍",
+    "likes": 77,
+    "createdAt": "2026-05-04T13:25:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 77,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_109",
+    "postId": "post_003",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "This sunset is unreal 🌅",
+    "likes": 166,
+    "createdAt": "2026-05-03T18:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 166,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_110",
+    "postId": "post_006",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "Nature never misses 🌄",
+    "likes": 120,
+    "createdAt": "2026-05-03T18:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 120,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_111",
+    "postId": "reel_006",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    "text": "This transition is so smooth ✨",
+    "likes": 211,
+    "createdAt": "2026-06-03T12:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 211,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_112",
+    "postId": "reel_004",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "text": "Editing is top tier 🔥",
+    "likes": 198,
+    "createdAt": "2026-06-03T12:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 198,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_113",
+    "postId": "reel_007",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    "text": "This workout flow looks effective 💪",
+    "likes": 174,
+    "createdAt": "2026-06-02T08:30:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 174,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_114",
+    "postId": "reel_003",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "text": "Saving this for later 🔥",
+    "likes": 143,
+    "createdAt": "2026-06-02T08:45:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 143,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_115",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    },
+    "text": "City lights never disappoint 🌃",
+    "likes": 189,
+    "createdAt": "2026-06-01T21:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 189,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_116",
+    "postId": "reel_002",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    "text": "The reflections are insane ✨",
+    "likes": 167,
+    "createdAt": "2026-06-01T21:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 167,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_117",
+    "postId": "reel_001",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+    },
+    "text": "This outfit styling is perfect 👗",
+    "likes": 205,
+    "createdAt": "2026-05-31T14:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 205,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_118",
+    "postId": "reel_008",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    "text": "Fashion inspiration right here 🔥",
+    "likes": 188,
+    "createdAt": "2026-05-31T14:15:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 188,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_119",
+    "postId": "reel_025",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    "text": "This beach drone shot is insane 🌊",
+    "likes": 220,
+    "createdAt": "2026-05-30T17:00:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 220,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  },
+  {
+    "id": "comment_120",
+    "postId": "reel_018",
+    "user": {
+      "id": "user_007",
+      "username": "michael",
+      "displayName": "Michael",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    "text": "Pure cinematic vibes 🎬",
+    "likes": 241,
+    "createdAt": "2026-05-30T17:20:00Z",
+    "replies": [],
+    "stats": {
+      "likes": 241,
+      "comments": 0,
+      "shares": 0,
+      "reposts": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": false,
+      "reposted": false,
+      "following": false
+    }
+  }
+]

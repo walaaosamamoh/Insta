@@ -1,0 +1,962 @@
+[
+  {
+    "id": "reel_001",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "verified": true
+    },
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "thumbnail": "/images/reels/reel001.jpg",
+    "caption": "Morning coffee and peaceful vibes ☕",
+    "music": {
+      "title": "Summer Vibes",
+      "artist": "DJ Alex"
+    },
+    "duration": 24,
+    "stats": {
+      "views": 3245184,
+      "likes": 182345,
+      "comments": 3528,
+      "shares": 1458,
+      "bookmarks": 8612,
+      "reposts": 216
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-30T09:15:00Z"
+  },
+  {
+    "id": "reel_002",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "verified": true
+    },
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "thumbnail": "/images/reels/reel002.jpg",
+    "caption": "Sunrise above the clouds 🌄",
+    "music": {
+      "title": "Into the Sky",
+      "artist": "Luna"
+    },
+    "duration": 31,
+    "stats": {
+      "views": 1845120,
+      "likes": 91244,
+      "comments": 2011,
+      "shares": 861,
+      "bookmarks": 5212,
+      "reposts": 144
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-29T18:45:00Z"
+  },
+  {
+    "id": "reel_003",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "verified": true
+    },
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "thumbnail": "/images/reels/reel003.jpg",
+    "caption": "Best sushi I've ever had 🍣",
+    "music": {
+      "title": "Tokyo Nights",
+      "artist": "Neon Beats"
+    },
+    "duration": 18,
+    "stats": {
+      "views": 2876341,
+      "likes": 154273,
+      "comments": 4015,
+      "shares": 1804,
+      "bookmarks": 9420,
+      "reposts": 241
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-29T12:10:00Z"
+  },
+  {
+    "id": "reel_004",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+      "verified": false
+    },
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "thumbnail": "/images/reels/reel004.jpg",
+    "caption": "My VS Code setup in 30 seconds 💻",
+    "music": {
+      "title": "Lo-Fi Coding",
+      "artist": "Code Wave"
+    },
+    "duration": 30,
+    "stats": {
+      "views": 642812,
+      "likes": 38241,
+      "comments": 852,
+      "shares": 321,
+      "bookmarks": 4120,
+      "reposts": 74
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-28T21:30:00Z"
+  },
+  {
+    "id": "reel_005",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "verified": true
+    },
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "thumbnail": "/images/reels/reel005.jpg",
+    "caption": "5-minute summer makeup ☀️",
+    "music": {
+      "title": "Glow",
+      "artist": "Nova"
+    },
+    "duration": 42,
+    "stats": {
+      "views": 4287643,
+      "likes": 231452,
+      "comments": 5128,
+      "shares": 2143,
+      "bookmarks": 15482,
+      "reposts": 328
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-28T10:20:00Z"
+  },
+  {
+    "id": "reel_006",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "thumbnail": "/images/reels/reel006.jpg",
+    "caption": "Shoulder workout 🔥",
+    "music": {
+      "title": "Power Up",
+      "artist": "Iron Beats"
+    },
+    "duration": 27,
+    "stats": {
+      "views": 951233,
+      "likes": 48372,
+      "comments": 1208,
+      "shares": 442,
+      "bookmarks": 5230,
+      "reposts": 88
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-27T17:05:00Z"
+  },
+  {
+    "id": "reel_007",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
+      "verified": false
+    },
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "thumbnail": "/images/reels/reel007.jpg",
+    "caption": "The perfect waterfall shot 📷",
+    "music": {
+      "title": "Nature Flow",
+      "artist": "Echo"
+    },
+    "duration": 33,
+    "stats": {
+      "views": 1234187,
+      "likes": 63481,
+      "comments": 1548,
+      "shares": 628,
+      "bookmarks": 6421,
+      "reposts": 117
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-27T09:50:00Z"
+  },
+  {
+    "id": "reel_008",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "thumbnail": "/images/reels/reel008.jpg",
+    "caption": "3 outfits, 30 seconds 👗",
+    "music": {
+      "title": "Fashion Beat",
+      "artist": "Mila"
+    },
+    "duration": 30,
+    "stats": {
+      "views": 812734,
+      "likes": 45282,
+      "comments": 1084,
+      "shares": 387,
+      "bookmarks": 4138,
+      "reposts": 82
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-26T14:35:00Z"
+  },
+  {
+    "id": "reel_009",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "thumbnail": "/images/reels/reel009.jpg",
+    "caption": "Forest sounds 🌲🍃",
+    "music": {
+      "title": "Natural Ambience",
+      "artist": "Forest Echo"
+    },
+    "duration": 20,
+    "stats": {
+      "views": 542381,
+      "likes": 28152,
+      "comments": 624,
+      "shares": 208,
+      "bookmarks": 2840,
+      "reposts": 51
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-25T08:40:00Z"
+  },
+  {
+    "id": "reel_010",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "thumbnail": "/images/reels/reel010.jpg",
+    "caption": "A day in my life 🤍",
+    "music": {
+      "title": "Golden Days",
+      "artist": "Aurora"
+    },
+    "duration": 45,
+    "stats": {
+      "views": 5124831,
+      "likes": 284175,
+      "comments": 6182,
+      "shares": 2517,
+      "bookmarks": 18364,
+      "reposts": 402
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-24T16:00:00Z"
+  },
+  {
+    "id": "reel_011",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "verified": true
+    },
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "thumbnail": "/images/reels/reel011.jpg",
+    "caption": "Sunset dinner by the beach 🌅🍽️",
+    "music": {
+      "title": "Ocean Breeze",
+      "artist": "Wave Sounds"
+    },
+    "duration": 28,
+    "stats": {
+      "views": 2765432,
+      "likes": 148923,
+      "comments": 3621,
+      "shares": 1478,
+      "bookmarks": 8426,
+      "reposts": 218
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-24T11:30:00Z"
+  },
+  {
+    "id": "reel_012",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "verified": true
+    },
+    "video": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "thumbnail": "/images/reels/reel012.jpg",
+    "caption": "Flying over the Alps ✈️🏔️",
+    "music": {
+      "title": "Sky High",
+      "artist": "Aero"
+    },
+    "duration": 34,
+    "stats": {
+      "views": 1984536,
+      "likes": 103284,
+      "comments": 2418,
+      "shares": 932,
+      "bookmarks": 6035,
+      "reposts": 156
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-23T15:45:00Z"
+  },
+  {
+    "id": "reel_013",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnail": "/images/reels/reel013.jpg",
+    "caption": "Easy everyday makeup 💄",
+    "music": {
+      "title": "Glow Up",
+      "artist": "Nova"
+    },
+    "duration": 41,
+    "stats": {
+      "views": 3942187,
+      "likes": 214653,
+      "comments": 4982,
+      "shares": 2031,
+      "bookmarks": 14925,
+      "reposts": 337
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-23T09:20:00Z"
+  },
+  {
+    "id": "reel_014",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "thumbnail": "/images/reels/reel014.jpg",
+    "caption": "React tips you should know ⚛️",
+    "music": {
+      "title": "Night Coding",
+      "artist": "Code Wave"
+    },
+    "duration": 39,
+    "stats": {
+      "views": 784521,
+      "likes": 42154,
+      "comments": 1046,
+      "shares": 416,
+      "bookmarks": 5130,
+      "reposts": 96
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-22T21:15:00Z"
+  },
+  {
+    "id": "reel_015",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "thumbnail": "/images/reels/reel015.jpg",
+    "caption": "A quiet afternoon in the countryside 🌼",
+    "music": {
+      "title": "Golden Fields",
+      "artist": "Aurora"
+    },
+    "duration": 27,
+    "stats": {
+      "views": 4869120,
+      "likes": 273816,
+      "comments": 5874,
+      "shares": 2382,
+      "bookmarks": 17530,
+      "reposts": 389
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-22T13:40:00Z"
+  },
+  {
+    "id": "reel_016",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "thumbnail": "/images/reels/reel016.jpg",
+    "caption": "Capturing the perfect waterfall 📸",
+    "music": {
+      "title": "Nature Flow",
+      "artist": "Echo"
+    },
+    "duration": 32,
+    "stats": {
+      "views": 1326457,
+      "likes": 68513,
+      "comments": 1679,
+      "shares": 684,
+      "bookmarks": 7016,
+      "reposts": 128
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-21T17:25:00Z"
+  },
+  {
+    "id": "reel_017",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "thumbnail": "/images/reels/reel017.jpg",
+    "caption": "Leg day never gets easier 🏋️",
+    "music": {
+      "title": "Power Lift",
+      "artist": "Iron Beats"
+    },
+    "duration": 30,
+    "stats": {
+      "views": 1032148,
+      "likes": 54136,
+      "comments": 1298,
+      "shares": 517,
+      "bookmarks": 5843,
+      "reposts": 101
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-21T09:10:00Z"
+  },
+  {
+    "id": "reel_018",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "thumbnail": "/images/reels/reel018.jpg",
+    "caption": "Neutral outfits for every occasion 🤍",
+    "music": {
+      "title": "Soft Mood",
+      "artist": "Lina"
+    },
+    "duration": 29,
+    "stats": {
+      "views": 896542,
+      "likes": 46387,
+      "comments": 1123,
+      "shares": 398,
+      "bookmarks": 4468,
+      "reposts": 84
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-20T14:45:00Z"
+  },
+  {
+    "id": "reel_019",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "thumbnail": "/images/reels/reel019.jpg",
+    "caption": "A peaceful walk through the forest 🌲",
+    "music": {
+      "title": "Forest Dreams",
+      "artist": "Nature Lab"
+    },
+    "duration": 26,
+    "stats": {
+      "views": 623417,
+      "likes": 31458,
+      "comments": 702,
+      "shares": 251,
+      "bookmarks": 3098,
+      "reposts": 57
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-20T08:20:00Z"
+  },
+  {
+    "id": "reel_020",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "thumbnail": "/images/reels/reel020.jpg",
+    "caption": "One day in Tokyo 🇯🇵✨",
+    "music": {
+      "title": "City Lights",
+      "artist": "Neon Beats"
+    },
+    "duration": 37,
+    "stats": {
+      "views": 3128456,
+      "likes": 171204,
+      "comments": 4213,
+      "shares": 1738,
+      "bookmarks": 10124,
+      "reposts": 267
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-19T18:30:00Z"
+  },
+  {
+    "id": "reel_021",
+    "user": {
+      "id": "user_001",
+      "username": "john_doe",
+      "displayName": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "verified": true
+    },
+    "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "thumbnail": "/images/reels/reel021.jpg",
+    "caption": "Sunrise from the mountain summit 🌄",
+    "music": {
+      "title": "Above the Clouds",
+      "artist": "Skyline"
+    },
+    "duration": 34,
+    "stats": {
+      "views": 2145783,
+      "likes": 112431,
+      "comments": 2678,
+      "shares": 1035,
+      "bookmarks": 6842,
+      "reposts": 171
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-19T08:15:00Z"
+  },
+  {
+    "id": "reel_022",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail": "/images/reels/reel022.jpg",
+    "caption": "Bookstore mornings are the best 📚",
+    "music": {
+      "title": "Quiet Moments",
+      "artist": "Aurora"
+    },
+    "duration": 27,
+    "stats": {
+      "views": 5481237,
+      "likes": 296842,
+      "comments": 6512,
+      "shares": 2715,
+      "bookmarks": 19345,
+      "reposts": 432
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-18T14:40:00Z"
+  },
+  {
+    "id": "reel_023",
+    "user": {
+      "id": "user_010",
+      "username": "mia",
+      "displayName": "Mia Davis",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnail": "/images/reels/reel023.jpg",
+    "caption": "Night skincare routine 🌙",
+    "music": {
+      "title": "Dream Glow",
+      "artist": "Nova"
+    },
+    "duration": 44,
+    "stats": {
+      "views": 4317548,
+      "likes": 237952,
+      "comments": 5348,
+      "shares": 2147,
+      "bookmarks": 16128,
+      "reposts": 351
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-18T09:20:00Z"
+  },
+  {
+    "id": "reel_024",
+    "user": {
+      "id": "user_004",
+      "username": "olivia",
+      "displayName": "Olivia Brown",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "thumbnail": "/images/reels/reel024.jpg",
+    "caption": "Trying every dessert at this café 🍰",
+    "music": {
+      "title": "Sweet Escape",
+      "artist": "Sugar Beats"
+    },
+    "duration": 36,
+    "stats": {
+      "views": 3248704,
+      "likes": 183415,
+      "comments": 4417,
+      "shares": 1826,
+      "bookmarks": 10936,
+      "reposts": 281
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": true
+    },
+    "createdAt": "2026-06-17T18:05:00Z"
+  },
+  {
+    "id": "reel_025",
+    "user": {
+      "id": "user_003",
+      "username": "alex",
+      "displayName": "Alex Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "thumbnail": "/images/reels/reel025.jpg",
+    "caption": "Back workout you should try 💪",
+    "music": {
+      "title": "Power Mode",
+      "artist": "Iron Beats"
+    },
+    "duration": 31,
+    "stats": {
+      "views": 1174632,
+      "likes": 61284,
+      "comments": 1432,
+      "shares": 583,
+      "bookmarks": 6483,
+      "reposts": 118
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-17T10:30:00Z"
+  },
+  {
+    "id": "reel_026",
+    "user": {
+      "id": "user_009",
+      "username": "noah",
+      "displayName": "Noah Miller",
+      "avatar": "https://randomuser.me/api/portraits/men/34.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "thumbnail": "/images/reels/reel026.jpg",
+    "caption": "Wildlife moments you can't plan 🦌",
+    "music": {
+      "title": "Into Nature",
+      "artist": "Echo"
+    },
+    "duration": 29,
+    "stats": {
+      "views": 1482913,
+      "likes": 78316,
+      "comments": 1842,
+      "shares": 754,
+      "bookmarks": 7821,
+      "reposts": 149
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-16T16:45:00Z"
+  },
+  {
+    "id": "reel_027",
+    "user": {
+      "id": "user_006",
+      "username": "david",
+      "displayName": "David Lee",
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "thumbnail": "/images/reels/reel027.jpg",
+    "caption": "JavaScript tricks every developer should know ⚡",
+    "music": {
+      "title": "Binary Beat",
+      "artist": "Code Wave"
+    },
+    "duration": 41,
+    "stats": {
+      "views": 863502,
+      "likes": 46852,
+      "comments": 1156,
+      "shares": 462,
+      "bookmarks": 5721,
+      "reposts": 102
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-16T08:10:00Z"
+  },
+  {
+    "id": "reel_028",
+    "user": {
+      "id": "user_008",
+      "username": "lucy",
+      "displayName": "Lucy Adams",
+      "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "thumbnail": "/images/reels/reel028.jpg",
+    "caption": "Three summer outfits in under 30 seconds ☀️",
+    "music": {
+      "title": "Fashion Pulse",
+      "artist": "Mila"
+    },
+    "duration": 30,
+    "stats": {
+      "views": 973618,
+      "likes": 52143,
+      "comments": 1248,
+      "shares": 458,
+      "bookmarks": 4986,
+      "reposts": 97
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": false,
+      "following": false
+    },
+    "createdAt": "2026-06-15T15:20:00Z"
+  },
+  {
+    "id": "reel_029",
+    "user": {
+      "id": "user_002",
+      "username": "sarah",
+      "displayName": "Sarah Wilson",
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg",
+      "verified": false
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "thumbnail": "/images/reels/reel029.jpg",
+    "caption": "Camping under the stars ✨",
+    "music": {
+      "title": "Campfire",
+      "artist": "Forest Echo"
+    },
+    "duration": 26,
+    "stats": {
+      "views": 684325,
+      "likes": 35241,
+      "comments": 814,
+      "shares": 294,
+      "bookmarks": 3378,
+      "reposts": 66
+    },
+    "viewer": {
+      "liked": false,
+      "bookmarked": true,
+      "following": true
+    },
+    "createdAt": "2026-06-15T07:50:00Z"
+  },
+  {
+    "id": "reel_030",
+    "user": {
+      "id": "user_005",
+      "username": "emma",
+      "displayName": "Emma Watson",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "verified": true
+    },
+    "video": "https://storage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "thumbnail": "/images/reels/reel030.jpg",
+    "caption": "A perfect day from sunrise to sunset 🤍",
+    "music": {
+      "title": "Golden Hour",
+      "artist": "Aurora"
+    },
+    "duration": 48,
+    "stats": {
+      "views": 5932846,
+      "likes": 318754,
+      "comments": 7041,
+      "shares": 2946,
+      "bookmarks": 20753,
+      "reposts": 471
+    },
+    "viewer": {
+      "liked": true,
+      "bookmarked": true,
+      "following": false
+    },
+    "createdAt": "2026-06-14T19:30:00Z"
+  }
+]
