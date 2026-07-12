@@ -4,10 +4,25 @@
     <div class="header p-2 flex justify-between items-center">
       <PlusSvg />
       <div class="flex justify-center items-center gap-2">
-        <h1 class="font-bold text-2xl italic">{{ currentUser.username }}</h1>
-        <VerifiedSvg v-show="currentUser.verified" />
+        <h1 class="font-bold text-2xl italic">{{ currentUser?.username }}</h1>
+        <VerifiedSvg v-show="currentUser?.verified" />
       </div>
-      <MenubarSvg />
+      <div class="relative">
+        <MenubarSvg @click="isOpen = !isOpen" />
+        <div
+          v-if="isOpen"
+          class="absolute right-0 z-10 w-48 mt-2 bg-white border border-gray-200 rounded-lg shadow-lg"
+        >
+          <ul>
+            <li class="px-4 py-2 cursor-pointer hover:bg-gray-100 border-b border-b-gray-100">
+              Setting
+            </li>
+          </ul>
+          <ul @click="logout">
+            <li class="px-4 py-2 cursor-pointer hover:bg-gray-100">Log out</li>
+          </ul>
+        </div>
+      </div>
     </div>
 
     <!-- user info -->
@@ -16,18 +31,18 @@
         <profile-nav class="w-20 h-20 md:w-40 md:h-40" />
       </div>
       <div class="flex-1">
-        <h2 class="font-semibold">{{ currentUser.displayName }}</h2>
+        <h2 class="font-semibold">{{ currentUser?.displayName }}</h2>
         <div class="mt-2 flex justify-between items-center">
           <div class="flex flex-col md:flex-row md:gap-1 md:justify-center md:items-center">
-            <span class="font-semibold">{{ currentUser.posts }}</span>
+            <span class="font-semibold">{{ currentUser?.posts }}</span>
             <span class="text-sm text-gray-600">posts</span>
           </div>
           <div class="flex flex-col md:flex-row md:gap-1 md:justify-center md:items-center">
-            <span class="font-semibold">{{ currentUser.followers }}</span>
+            <span class="font-semibold">{{ currentUser?.followers }}</span>
             <span class="text-sm text-gray-600">followers</span>
           </div>
           <div class="flex flex-col md:flex-row md:gap-1 md:justify-center md:items-center">
-            <span class="font-semibold">{{ currentUser.following }}</span>
+            <span class="font-semibold">{{ currentUser?.following }}</span>
             <span class="text-sm text-gray-600">following</span>
           </div>
         </div>
@@ -36,7 +51,7 @@
 
     <!-- bio -->
     <div class="px-6 text-sm md:text-center md:-mt-10 md:ml-10">
-      {{ currentUser.bio }}
+      {{ currentUser?.bio }}
     </div>
 
     <!-- tabs -->
@@ -60,7 +75,7 @@
         <keep-alive>
           <component
             :is="activeTab"
-            :id="currentUser.id"
+            :id="currentUser?.id"
             class="grid grid-cols-3 gap-0.5 lg:grid-cols-4 lg:min-w-4xl lg:absolute lg:left-[50%] lg:translate-x-[-50%] lg:rounded-md lg:overflow-hidden"
           />
         </keep-alive>
@@ -83,9 +98,14 @@ import UserReposts from '@/components/profile/UserReposts.vue'
 import UserTagged from '@/components/profile/UserTagged.vue'
 import profileNav from '@/components/profileNav.vue'
 import { useAuthStore } from '@/stores/auth'
-import { mapState } from 'pinia'
+import { mapActions, mapState } from 'pinia'
 
 export default {
+  data() {
+    return {
+      isOpen: false,
+    }
+  },
   components: {
     PlusSvg,
     MenubarSvg,
@@ -113,6 +133,9 @@ export default {
   },
   computed: {
     ...mapState(useAuthStore, ['currentUser']),
+  },
+  methods: {
+    ...mapActions(useAuthStore, ['logout']),
   },
 }
 </script>

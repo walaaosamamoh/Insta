@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import users from '@/data/users.json'
+import router from '@/router'
 
 export const useAuthStore = defineStore('authStore', {
   state: () => ({
@@ -14,6 +15,7 @@ export const useAuthStore = defineStore('authStore', {
       if (found) {
         if (found.password == password) {
           localStorage.setItem('user', JSON.stringify(found))
+          this.currentUser = found
           return found
         } else {
           this.error = 'incorrect password'
@@ -22,6 +24,12 @@ export const useAuthStore = defineStore('authStore', {
       }
       this.error = 'user not found'
       return null
+    },
+
+    logout() {
+      this.currentUser = null
+      localStorage.removeItem('user')
+      router.push({ name: 'login' })
     },
   },
 })
