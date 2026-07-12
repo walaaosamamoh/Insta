@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen flex flex-col justify-around">
+  <div class="h-screen flex flex-col justify-around max-w-xl mx-auto">
     <div class="flex justify-center items-center mt-8">
       <img src="/src/assets/images/logo.png" alt="instagram-logo" class="w-14 h-14 object-cover" />
     </div>
