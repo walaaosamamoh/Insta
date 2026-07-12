@@ -24,6 +24,7 @@ export const useStoriesStore = defineStore('storiesStore', {
             const userId = story.user.id
             if (!usersMap[userId]) {
               usersMap[userId] = {
+                userId: story.user.id,
                 username: story.user.username,
                 avatar: story.user.avatar,
                 hasUnviewed: story.viewer.viewed === false,

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-for="post in getUserPosts(id)" :key="post.id" class="h-50 md:h-96">
-      <img :src="post.media[0].url" :alt="post.caption" class="h-full object-cover" />
+      <img :src="post.media[0].url" :alt="post.caption" class="h-full w-full object-cover" />
     </div>
   </div>
 </template>

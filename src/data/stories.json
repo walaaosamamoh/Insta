@@ -10,7 +10,7 @@
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story001.jpg"
+      "url": "https://i.pravatar.cc/600?img=55"
     },
     "viewCount": 812,
     "viewer": {
@@ -230,7 +230,7 @@
     },
     "media": {
       "type": "video",
-      "url": "/videos/stories/story012.mp4"
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4"
     },
     "viewCount": 1386,
     "viewer": {
@@ -430,7 +430,7 @@
     },
     "media": {
       "type": "image",
-      "url": "/images/stories/story022.jpg"
+      "url": "https://i.pravatar.cc/600?img=57"
     },
     "viewCount": 1527,
     "viewer": {

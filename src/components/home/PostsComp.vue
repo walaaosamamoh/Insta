@@ -3,7 +3,7 @@
     <div v-for="post in posts" :key="post.id">
       <div class="p-2 mb-4">
         <div class="flex items-center gap-2 mb-2">
-          <ProfilePic :user="post.user" class="md:w-12 h-12" />
+          <ProfilePic :user="post.user" class="md:w-12 md:h-12 w-8 h-8" />
           <div class="flex flex-col">
             <div class="flex items-center gap-1">
               <h2 class="font-semibold text-sm">{{ post.user.username }}</h2>
