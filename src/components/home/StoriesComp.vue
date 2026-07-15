@@ -103,6 +103,7 @@ export default {
     closeViewer() {
       this.showViewer = false
       this.selectedUserId = null
+      document.body.style.overflow = ''
     },
   },
 }
