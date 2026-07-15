@@ -116,17 +116,29 @@ export default {
   computed: {
     ...mapState(useCommentsStore, ['getCommentsByPostId']),
   },
+  methods: {
+    handleBackButton() {
+      this.$emit('close')
+    },
+  },
 
   watch: {
     isOpen(newVal) {
       if (newVal) {
         document.body.style.overflow = 'hidden'
+        window.history.pushState({ sheetOpen: true }, '')
+        window.addEventListener('popstate', this.handleBackButton)
       } else {
+        window.removeEventListener('popstate', this.handleBackButton)
+        if (window.history.state && window.history.state.sheetOpen) {
+          window.history.back()
+        }
         document.body.style.overflow = ''
       }
     },
   },
   unmounted() {
+    window.removeEventListener('popstate', this.handleBackButton)
     document.body.style.overflow = ''
   },
 }
